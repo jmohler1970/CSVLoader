@@ -2,9 +2,11 @@
 component extends="framework.one" output="false"	{
 
 
-this.name					= "csv_cf_028";
+this.name					= "csv_cf_001";
 this.applicationTimeout 		= createTimeSpan(0, 4, 0, 0);
 this.applicationManagement 	= true;
+this.ormenabled = true;
+this.datasource = "CSVLoader"; // Reddog1
 
 this.mappings = {
 	"/models"	= GetDirectoryFromPath(getBaseTemplatePath()) & "models/"
@@ -16,7 +18,7 @@ variables.framework	=	{
 	defaultItem	= "home",
 	generateSES	= true,
 	SESomitIndex	= false,
-	decodeRequestBody = true, // REST
+	decodeRequestBody = false, // REST
 	trace 		= false
 	};
 
