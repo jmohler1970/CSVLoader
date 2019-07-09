@@ -1,0 +1,10 @@
+{
+	"dependencies":{
+	    "textExtract":"git://github.com/jmohler1970/TextExtract.git",
+	    "fw1":"4.2.0"
+	},
+	"installPaths":{
+	    "textExtract":"models",
+	    "fw1":"framework/"
+	}
+ }
