@@ -1,6 +1,10 @@
 CREATE DATABASE CSVLoader
 GO
 
+USE CSVLoader
+GO
+
+
 /* Based on: https://mockaroo.com/ */
 
 CREATE TABLE [dbo].[Customer](
@@ -16,7 +20,7 @@ CREATE TABLE [dbo].[Customer](
 	[timezone] [varchar](80) NOT NULL,
 	[IP] [varchar](15) NOT NULL,
 	[app_name] [varchar](max) NOT NULL,
-	[CreateDate] [smalldatetime] NOT NULL CONSTRAINT [DF_Traffic_C_CreateDate] DEFAULT GETDATE()
+	[CreateDate] [smalldatetime] NOT NULL CONSTRAINT [DF_CSVLoader_Customer_CreateDate] DEFAULT GETDATE()
 ) ON [PRIMARY]
 WITH (DATA_COMPRESSION = PAGE)
 GO

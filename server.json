@@ -1,11 +1,11 @@
 {
-	"name":"CSVLoader",
-	"app":{
-	    "cfengine":"adobe@2018"
-	},
-	"web":{
-	    "http":{
-		   "port":8079
-	    }
-	}
- }
+    "name":"CSVLoader",
+    "app":{
+        "cfengine":"adobe@2018"
+    },
+    "web":{
+        "http":{
+            "port":8079
+        }
+    }
+}

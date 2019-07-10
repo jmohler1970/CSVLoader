@@ -1,4 +1,4 @@
-<cfscript>
+
 component	accessors="true"  output="false" {
 
 property	beanFactory;
@@ -26,10 +26,11 @@ void function home(required struct rc)	{
 	}
 
 
+	//	rc.Customers = EntityLoad("Customer");
 
-	rc.recCount = ORMExecuteQuery("select count(*) from Customer");
+	//	rc.Customers2 = ORMExecuteQuery("from Customer");
 
+	rc.recCount = ArrayLen(EntityLoad("Customer"));
 }
 
-
-</cfscript>
+}
