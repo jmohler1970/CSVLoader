@@ -1,8 +1,9 @@
 <cfscript>
-component persistent="true" output="false" {
+component persistent="true" accessors="true" output="false" {
 
-	property name="id" fieldtype="id";
+	property name="id" fieldtype="id" generator="identity";
 
+	property name="member_id";
 	property name="first_Name";
 	property name="last_Name";
 	property name="Address";

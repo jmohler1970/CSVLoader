@@ -5,6 +5,67 @@ variables.fixedLen	= "";
 variables.fileObj = "";
 
 
+array function doProcess(required string fileToProcess, array fixedLen = []) output="false" {
+
+	// Returns arrays of arrays
+	// Or arrays of ordered structs
+
+
+	var bContinue = true;
+	var aResult = ArrayNew['array'](1);
+
+	this.setup(arguments.fileToProcess, arguments.fixedLen);
+
+	while(bContinue)	{
+		var myLine = this.getNextLineTokens();
+
+		if(myLine.isEmpty())	{
+			return aResult;
+		}
+	
+		aResult.append(myLine);
+	}
+
+	return aResult;
+}
+
+
+array function doProcessStruct(required string fileToProcess, array fixedLen = []) output="false" {
+
+	// Returns arrays of arrays
+	// Or arrays of ordered structs
+
+
+	var bContinue = true;
+	var aResult = ArrayNew['struct'](1);
+
+	this.setup(arguments.fileToProcess, arguments.fixedLen);
+
+	var header = this.getNextLineTokens();
+
+	while(bContinue)	{
+		var myLine = this.getNextLineTokens();
+
+		if(myLine.isEmpty())	{
+			return aResult;
+		}
+
+		var colcount = 0;
+		var stLine = [:];
+
+		for (col in header)	{
+			colcount++;
+			stLine[col] = myLine[colcount];
+		}
+
+
+		aResult.append(stLine);
+	}
+
+	return aResult;
+}
+
+
 boolean function setup(required string fileToProcess, array fixedLen = []) output="false" hint="This does not do full file processing." {
 
 	if(!FileExists(arguments.fileToProcess))	{

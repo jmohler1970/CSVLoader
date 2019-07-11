@@ -1,0 +1,1 @@
+<h1>Database table compression</h1>
