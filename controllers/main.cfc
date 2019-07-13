@@ -28,6 +28,8 @@ void function home(required struct rc)	{
 
 void function load(required struct rc)	{
 
+	param rc.dbTable = "Customer";
+
 	if (framework.getCGIRequestMethod() == "post")	{
 
 		var	strPath = "ram://temp/";
@@ -42,12 +44,8 @@ void function load(required struct rc)	{
 
 		var iterations = RandRange(1, 100)
 
-		for (var i = 1; i < iterations; i++)	{
-			for (var data in csvdata)	{
-				if (Rand() > 0.5)	{
-					EntitySave(EntityNew("Customer", data));
-				}
-			}
+		for (var data in csvdata)	{
+			EntitySave(EntityNew(rc.dbTable, data));
 		}
 
 	}

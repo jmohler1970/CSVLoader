@@ -1,0 +1,1001 @@
+customer_id,genre,plant,active,Refunded,product,cctype
+99,Documentary,Pteridaceae,false,false,Scallops - U - 10,jcb
+271,Drama|Romance|War,Asteraceae,false,false,Coffee - Espresso,visa
+354,Comedy,Scrophulariaceae,true,true,"Lid - High Heat, Super Clear",jcb
+773,Drama,Aspleniaceae,false,false,Fish - Bones,china-unionpay
+175,Comedy,Brassicaceae,false,true,Cherries - Fresh,bankcard
+652,Adventure|Sci-Fi,Fabaceae,false,true,Rice - Long Grain,diners-club-enroute
+600,Drama|Romance,Cyperaceae,false,false,Clams - Bay,jcb
+430,Comedy|Musical,Ditrichaceae,true,false,Cheese - Wine,mastercard
+645,Action,Arecaceae,true,true,Mustard - Dijon,jcb
+283,Drama|Horror,Cistaceae,true,false,Cauliflower,jcb
+745,Documentary,Asteraceae,false,false,White Baguette,diners-club-international
+506,Action|Sci-Fi|War,Asteraceae,false,true,Basil - Pesto Sauce,americanexpress
+205,Adventure|Drama|Fantasy,Lamiaceae,false,true,Dill Weed - Fresh,mastercard
+600,Action|Adventure|Sci-Fi,Lamiaceae,true,false,Bandage - Fexible 1x3,jcb
+457,Drama,Violaceae,false,true,Bread - White Mini Epi,jcb
+362,Adventure|Comedy,Fabaceae,false,true,Wine - Vineland Estate Semi - Dry,jcb
+212,Film-Noir|Romance|Thriller,Graphidaceae,false,false,Ham - Black Forest,americanexpress
+861,Drama,Campanulaceae,false,false,Bread - Pumpernickel,jcb
+118,Documentary|Musical,Asteraceae,false,true,Soup - Campbells Asian Noodle,americanexpress
+959,Adventure|Drama,Boraginaceae,true,true,Soup Bowl Clear 8oz92008,jcb
+529,Crime|Drama|Thriller,Lamiaceae,false,true,Salt - Kosher,jcb
+488,Drama|War,Polemoniaceae,true,true,Orange Roughy 6/8 Oz,china-unionpay
+417,Drama,Cupressaceae,false,true,Chicken - Leg / Back Attach,visa-electron
+866,Thriller,Parmeliaceae,false,false,Beef - Ground Medium,jcb
+121,Comedy,Boraginaceae,false,false,Beef - Tenderloin - Aa,switch
+473,Comedy,Scrophulariaceae,false,true,Salt And Pepper Mix - Black,visa-electron
+136,Drama,Rhizocarpaceae,true,true,"Veal - Brisket, Provimi,bnls",jcb
+188,Action|Crime,Liliaceae,true,false,Cheese - Gouda Smoked,jcb
+657,Drama|Romance,Lamiaceae,true,false,Rhubarb,jcb
+269,Comedy|Horror,Poaceae,true,false,Juice Peach Nectar,switch
+353,Comedy|Horror|Mystery,Apocynaceae,true,true,Beef - Inside Round,jcb
+798,Action|Comedy|Thriller|Western,Boraginaceae,false,true,Herb Du Provence - Primerba,jcb
+777,Drama|Horror,Asteraceae,true,false,"Sparkling Wine - Rose, Freixenet",diners-club-enroute
+577,Drama,Euphorbiaceae,true,true,Gherkin,bankcard
+404,Action|Adventure|Comedy|Sci-Fi,Cupressaceae,true,false,"Lamb - Shoulder, Boneless",switch
+236,Drama|Thriller,Asteraceae,true,false,Soho Lychee Liqueur,jcb
+824,Drama|War,Caryophyllaceae,false,true,Halibut - Steaks,americanexpress
+80,Drama|Thriller,Asteraceae,true,true,"Beef - Ox Tail, Frozen",jcb
+413,Comedy,Asteraceae,false,true,Container - Clear 32 Oz,china-unionpay
+683,Drama,Lamiaceae,true,true,Blue Curacao - Marie Brizard,mastercard
+956,Drama,Polygonaceae,true,false,Dehydrated Kelp Kombo,mastercard
+410,Comedy|Drama|Romance,Poaceae,false,false,Wine - Chateau Bonnet,jcb
+774,Comedy,Chenopodiaceae,true,true,"Pepsi - Diet, 355 Ml",jcb
+681,Adventure|Comedy|Romance,Boraginaceae,false,false,"Sparkling Wine - Rose, Freixenet",jcb
+619,Action|Thriller,Gesneriaceae,true,true,Bread - Onion Focaccia,jcb
+360,Comedy,Ramalinaceae,true,false,Calypso - Lemonade,bankcard
+682,Action|Mystery|Thriller,Myrtaceae,true,false,"Sauce - Bernaise, Mix",mastercard
+874,Action|Comedy|Thriller,Asteraceae,true,false,Miso - Soy Bean Paste,diners-club-enroute
+950,Horror,Rosaceae,true,true,Cookie Choc,maestro
+542,Crime|Drama,Asteraceae,false,true,Beans - French,mastercard
+113,Drama|Romance|War,Asclepiadaceae,false,false,"Shrimp - 16/20, Iqf, Shell On",mastercard
+382,Action|Sci-Fi,Asteraceae,true,false,Limes,mastercard
+509,Documentary,Myrtaceae,true,true,Cleaner - Pine Sol,diners-club-carte-blanche
+221,Crime|Drama|Thriller,Fabaceae,true,false,Wine - Hardys Bankside Shiraz,jcb
+803,Action|Fantasy|Sci-Fi,Brassicaceae,false,false,Celery,jcb
+848,Action|Adventure|Crime|Thriller,Asteraceae,false,false,Pork - Shoulder,mastercard
+617,Adventure|Crime|Drama|Horror|Mystery,Asteraceae,true,false,Coffee - 10oz Cup 92961,jcb
+868,Drama,Convolvulaceae,true,true,"Pineapple - Canned, Rings",diners-club-carte-blanche
+632,Horror|Mystery|Thriller,Polygonaceae,false,false,Pastrami,maestro
+948,Action|Adventure|War,Dryopteridaceae,true,false,"Pasta - Penne Primavera, Single",diners-club-enroute
+893,Animation|Comedy|Fantasy|Sci-Fi,Rubiaceae,true,false,Pork - European Side Bacon,diners-club-international
+615,(no genres listed),Liliaceae,true,true,Coffee - Almond Amaretto,mastercard
+637,Comedy,Liliaceae,false,true,Tart - Butter Plain Squares,jcb
+677,Action|Romance,Fabaceae,false,true,Eggroll,americanexpress
+683,Documentary,Agavaceae,true,true,Chips - Assorted,instapayment
+145,Drama|Romance,Asteraceae,false,false,"Wine - Sherry Dry Sack, William",mastercard
+677,Action|Fantasy|Romance,Asteraceae,false,false,Pail With Metal Handle 16l White,jcb
+257,Drama,Pottiaceae,true,true,Pork - Ham Hocks - Smoked,jcb
+893,Drama,Asteraceae,false,true,"Trout - Rainbow, Fresh",jcb
+255,Comedy|Drama,Rosaceae,true,false,Wine - Zinfandel Rosenblum,laser
+804,Crime|Drama|Thriller,Portulacaceae,false,false,Capicola - Hot,jcb
+167,Documentary,Fabaceae,true,false,Steel Wool S.o.s,jcb
+544,Drama|Thriller|War,Fabaceae,true,true,Tomatoes - Orange,mastercard
+15,Drama|Thriller|War,Poaceae,true,true,Lettuce - Spring Mix,visa
+942,Drama,Asteraceae,true,true,Tea - Decaf Lipton,maestro
+523,Horror,Asteraceae,false,true,Nougat - Paste / Cream,jcb
+942,Comedy|Fantasy|Romance,Orchidaceae,false,false,Bread - Mini Hamburger Bun,visa
+338,Comedy|Drama|Romance,Asteraceae,false,true,Rice Wine - Aji Mirin,maestro
+140,Documentary,Polemoniaceae,true,false,Veal - Ground,jcb
+289,Comedy,Poaceae,true,false,"Beans - Kidney, Red Dry",maestro
+750,Action|Comedy|Thriller,Polygonaceae,false,true,"Cookies - Oreo, 4 Pack",americanexpress
+494,Drama,Asteraceae,true,false,Beer - Camerons Cream Ale,jcb
+189,Documentary,Crassulaceae,false,false,Swiss Chard,switch
+83,Action|Comedy,Rosaceae,false,false,Dried Peach,jcb
+974,Drama,Rhamnaceae,true,true,Beer - Labatt Blue,visa
+9,Comedy|Drama,Asteraceae,false,false,"Tomatoes - Vine Ripe, Red",maestro
+865,(no genres listed),Arthoniaceae,true,true,"Beets - Candy Cane, Organic",jcb
+822,Crime|Drama,Asteraceae,false,false,"Pasta - Bauletti, Chicken White",diners-club-enroute
+686,Comedy|Horror|Romance,Polygonaceae,true,true,"Quail - Whole, Bone - In",jcb
+604,Comedy,Rubiaceae,false,false,"Spoon - Soup, Plastic",jcb
+79,Comedy,Caprifoliaceae,true,false,Pasta - Angel Hair,mastercard
+469,Drama,Ericaceae,true,true,Mustard Prepared,mastercard
+243,Drama|Romance,Lecideaceae,false,false,Sardines,americanexpress
+462,Crime|Drama|Romance,Fabaceae,true,true,Gatorade - Xfactor Berry,mastercard
+246,Western,Lecanoraceae,true,false,"Bread - Crumbs, Bulk",jcb
+373,Documentary,Poaceae,true,false,Wine - Ej Gallo Sierra Valley,jcb
+364,Drama,Boraginaceae,true,false,Plasticspoonblack,jcb
+557,Comedy|Musical|Romance,Hydrophyllaceae,false,false,Lamb - Shanks,diners-club-carte-blanche
+445,Mystery|Thriller,Clavariaceae,false,true,Mushroom - Crimini,jcb
+683,Drama|Romance,Scrophulariaceae,true,true,Muffin Mix - Raisin Bran,instapayment
+42,Crime|Drama,Malvaceae,true,true,"Seedlings - Buckwheat, Organic",mastercard
+942,Drama,Bacidiaceae,false,false,Beef - Ground Medium,diners-club-enroute
+344,Drama,Sapindaceae,true,false,Tomatoes - Yellow Hot House,jcb
+355,Comedy|Romance,Hernandiaceae,true,false,Glucose,jcb
+887,Comedy|Drama,Saxifragaceae,false,true,Apples - Spartan,maestro
+202,Drama|Romance,Polygonaceae,true,false,Calaloo,china-unionpay
+134,Thriller,Lamiaceae,false,false,Monkfish Fresh - Skin Off,americanexpress
+224,Comedy,Sarraceniaceae,true,true,Yeast Dry - Fleischman,mastercard
+497,Drama,Fabaceae,true,true,Asparagus - Mexican,jcb
+792,Action|Crime|Drama,Cyperaceae,false,true,Shark - Loin,visa-electron
+715,Drama|Horror,Ericaceae,false,true,"Tuna - Canned, Flaked, Light",visa-electron
+92,Crime|Drama,Onagraceae,true,true,Cookies - Englishbay Wht,mastercard
+802,Documentary,Onagraceae,false,true,Bread - Pumpernickel,americanexpress
+30,Comedy,Poaceae,true,true,Cabbage Roll,maestro
+259,Comedy,Bryaceae,true,true,Bread - Focaccia Quarter,jcb
+485,Comedy|Drama|Musical|Romance,Asteraceae,true,false,Beef Striploin Aaa,mastercard
+738,Fantasy|Horror,Liliaceae,false,true,Appetizer - Veg Assortment,mastercard
+586,Drama,Polemoniaceae,true,true,Sauce - Ranch Dressing,maestro
+796,Comedy,Annonaceae,true,true,Wine - Black Tower Qr,solo
+155,Comedy,Teloschistaceae,true,false,Glass Clear 8 Oz,china-unionpay
+684,Comedy,Polygonaceae,false,true,Capon - Whole,laser
+92,Comedy|Drama,Asteraceae,false,true,Tuna - Sushi Grade,jcb
+533,Adventure|Children|Comedy|Fantasy,Asteraceae,false,false,Bread - Italian Sesame Poly,china-unionpay
+793,Drama,Campanulaceae,true,false,"Plate - Foam, Bread And Butter",jcb
+737,Drama,Poaceae,true,true,Eggplant - Baby,mastercard
+59,Crime|Drama|Thriller,Ericaceae,true,true,Wine - Magnotta - Cab Sauv,diners-club-enroute
+697,Drama,Gentianaceae,false,true,"Jam - Marmalade, Orange",jcb
+154,Children|Comedy,Ophioglossaceae,true,false,"Loaf Pan - 2 Lb, Foil",china-unionpay
+705,Crime|Drama|Thriller,Rubiaceae,true,true,Coffee Swiss Choc Almond,mastercard
+207,Adventure|Comedy,Rubiaceae,true,false,Poppy Seed,jcb
+774,Drama,Rosaceae,true,false,Cabbage - Nappa,visa-electron
+243,Crime|Drama|Mystery,Ephemeraceae,true,true,"Potatoes - Instant, Mashed",maestro
+205,Comedy|Drama,Convolvulaceae,false,false,Parasol Pick Stir Stick,switch
+631,Documentary,Cyperaceae,true,true,Container - Clear 16 Oz,jcb
+442,Drama,Orchidaceae,false,true,Squid Ink,jcb
+462,Documentary,Asteraceae,true,false,Sauce - Thousand Island,jcb
+411,Action|Drama|Fantasy,Rosaceae,true,true,Propel Sport Drink,solo
+187,Horror|Thriller,Candelariaceae,true,true,Tart - Butter Plain Squares,china-unionpay
+197,Action|Comedy,Cyperaceae,true,true,Otomegusa Dashi Konbu,jcb
+291,Drama|Thriller,Lobariaceae,false,false,"Pasta - Penne, Lisce, Dry",jcb
+256,Comedy|Drama,Apiaceae,false,true,Flour - Rye,visa-electron
+85,Drama,Rosaceae,false,false,"Jam - Blackberry, 20 Ml Jar",jcb
+983,Drama,Brachytheciaceae,false,true,Beef Wellington,jcb
+763,Sci-Fi,Umbilicariaceae,true,false,"Coffee - Beans, Whole",china-unionpay
+954,Documentary,Araliaceae,true,false,Pepper - Chilli Seeds Mild,jcb
+983,Comedy|Drama|Romance,Catoscopiaceae,false,false,Soup - Campbells Beef Strogonoff,switch
+279,Crime|Drama,Teloschistaceae,true,true,Saskatoon Berries - Frozen,mastercard
+238,Action|Sci-Fi,Cyperaceae,true,false,Napkin White - Starched,jcb
+626,Thriller,Poaceae,false,false,"Pork - Tenderloin, Frozen",maestro
+974,Crime|Drama|Mystery,Polygonaceae,true,false,Coffee Decaf Colombian,diners-club-enroute
+934,Drama,Pinaceae,false,false,Sobe - Lizard Fuel,maestro
+702,Horror|Thriller,Dipsacaceae,false,false,Fondant - Icing,switch
+49,Comedy|Drama|Romance,Apocynaceae,false,false,Shallots,diners-club-enroute
+582,Drama|Mystery,Poaceae,true,true,Prunes - Pitted,jcb
+512,Action|Drama,Scrophulariaceae,false,false,French Pastry - Mini Chocolate,jcb
+971,Sci-Fi,Cactaceae,true,true,"Sauce - Apple, Unsweetened",jcb
+255,Drama|Romance,Fabaceae,false,true,Madeira,diners-club-enroute
+2,Crime|Drama,Acarosporaceae,false,false,Pie Shell - 5,instapayment
+144,Action|Adventure|Drama,Caryophyllaceae,true,false,Melon - Cantaloupe,jcb
+438,Drama|Fantasy,Iridaceae,true,true,Cod - Black Whole Fillet,jcb
+639,Drama,Ericaceae,false,false,Browning Caramel Glace,diners-club-enroute
+620,Drama|Romance,Cladoniaceae,true,false,Pepper - Chilli Seeds Mild,laser
+929,Drama|IMAX,Salicaceae,false,true,Cheese - Cheddarsliced,diners-club-enroute
+786,Drama|War,Fagaceae,false,true,"Beans - Black Bean, Dry",visa
+250,Horror|Thriller,Salicaceae,true,true,Bouq All Italian - Primerba,visa
+240,Comedy,Celastraceae,true,false,Boogies,jcb
+788,Horror,Zygophyllaceae,false,true,Lamb - Sausage Casings,jcb
+774,(no genres listed),Portulacaceae,true,true,Foam Espresso Cup Plain White,bankcard
+793,Comedy|Romance,Physciaceae,true,false,Spring Roll Wrappers,jcb
+490,Action|Thriller,Hypnaceae,false,false,Kahlua,jcb
+860,Comedy|Drama,Parmeliaceae,false,false,Glucose,jcb
+536,Animation|Drama,Fabaceae,false,false,Pasta - Cheese / Spinach Bauletti,maestro
+176,Adventure|Comedy|Fantasy|Romance|IMAX,Caprifoliaceae,false,true,Apple - Fuji,instapayment
+426,Drama,Rosaceae,true,false,Wine - Masi Valpolocell,diners-club-carte-blanche
+551,Comedy,Buxbaumiaceae,true,false,"Roe - Lump Fish, Black",switch
+757,Drama|Romance|War,Poaceae,true,false,Mushroom - Morel Frozen,jcb
+696,Adventure|Children|Drama|Fantasy|IMAX,Amblystegiaceae,false,false,Tray - 12in Rnd Blk,switch
+842,Comedy|Romance,Ranunculaceae,true,true,"Gingerale - Schweppes, 355 Ml",americanexpress
+888,Adventure|Animation|Children|Drama,Scrophulariaceae,false,true,Wine - Periguita Fonseca,jcb
+331,Drama,Aristolochiaceae,true,false,Soup - Tomato Mush. Florentine,mastercard
+643,Sci-Fi,Acanthaceae,true,true,Cheese - Gorgonzola,visa-electron
+233,Horror,Pteridaceae,false,false,"Nut - Pecan, Halves",switch
+378,Comedy,Cactaceae,false,true,Flour - Whole Wheat,jcb
+205,Documentary,Orchidaceae,true,true,Carbonated Water - White Grape,mastercard
+558,Documentary,Poaceae,true,true,Pastry - Cheese Baked Scones,jcb
+657,Documentary,Myrtaceae,true,true,Bread - Ciabatta Buns,jcb
+417,Adventure|Comedy|Musical,Orchidaceae,true,true,"Coffee - Beans, Whole",americanexpress
+427,Documentary,Fabaceae,true,false,Tarragon - Fresh,americanexpress
+517,Comedy|Drama|Romance,Lamiaceae,true,true,Flour - All Purpose,jcb
+231,Comedy,Asteraceae,true,true,Mints - Striped Red,jcb
+370,Drama|Horror|Mystery|Thriller,Scrophulariaceae,false,true,Cookie - Dough Variety,maestro
+987,Drama,Asclepiadaceae,true,false,"Split Peas - Green, Dry",diners-club-carte-blanche
+697,Comedy,Asclepiadaceae,false,false,Anchovy In Oil,americanexpress
+378,Drama|Romance,Asteraceae,false,false,Wine - Beaujolais Villages,visa
+854,Documentary,Bombacaceae,false,true,Wine - Chablis 2003 Champs,jcb
+838,Action|Adventure|Sci-Fi|Thriller,Fabaceae,true,true,Muffin - Blueberry Individual,diners-club-carte-blanche
+979,Drama|Thriller,Bromeliaceae,false,false,Food Colouring - Green,jcb
+340,Comedy|Drama|Romance,Asteraceae,true,false,Bread - Multigrain Oval,maestro
+956,Crime|Drama|Thriller,Poaceae,false,false,"Crab - Dungeness, Whole",switch
+179,Adventure|Animation|Children|Fantasy|Musical,Fabaceae,true,false,Muffin - Blueberry Individual,jcb
+363,Comedy|Crime,Violaceae,true,false,Crab Brie In Phyllo,jcb
+390,Drama|Mystery|Romance,Fagaceae,false,true,Straw - Regular,diners-club-carte-blanche
+43,Crime|Sci-Fi|Thriller,Malvaceae,false,true,Breadfruit,jcb
+213,Horror|Thriller,Gentianaceae,true,true,Extract Vanilla Pure,china-unionpay
+67,Comedy|Drama,Chenopodiaceae,false,true,Bread - Focaccia Quarter,jcb
+544,Adventure,Rosaceae,true,true,"Shrimp - Baby, Warm Water",jcb
+503,Crime|Drama,Ramalinaceae,false,false,Scrubbie - Scotchbrite Hand Pad,switch
+915,Fantasy,Hydrophyllaceae,false,true,"Pasta - Linguini, Dry",mastercard
+387,Drama,Monoblastiaceae,false,false,Beer - Steamwhistle,diners-club-carte-blanche
+232,Crime|Drama|Thriller,Cyperaceae,false,false,Salt And Pepper Mix - Black,jcb
+894,Comedy|Drama|Fantasy,Scrophulariaceae,true,false,Cookie Dough - Double,jcb
+95,Documentary,Poaceae,false,true,Mikes Hard Lemonade,jcb
+112,Drama,Rosaceae,false,false,"Tart Shells - Sweet, 3",visa-electron
+624,Drama,Bignoniaceae,false,true,Wine - Alicanca Vinho Verde,jcb
+308,Comedy,Aponogetonaceae,false,true,Bread - Sour Batard,diners-club-enroute
+222,Drama,Solanaceae,false,false,Taro Leaves,switch
+91,Horror|Thriller,Asteraceae,true,false,Pork - Backs - Boneless,maestro
+211,Crime|Drama|Thriller,Scrophulariaceae,true,true,Cocoa Butter,diners-club-enroute
+802,Animation|Comedy,Grimmiaceae,false,false,"Pork - Sausage, Medium",jcb
+198,Action|Crime|Drama|Sci-Fi|Thriller,Agavaceae,true,true,Campari,china-unionpay
+959,Drama|Musical|Romance,Sphagnaceae,false,true,Cheese Cloth,jcb
+506,Comedy|Crime,Lamiaceae,true,false,Wine - Cousino Macul Antiguas,diners-club-enroute
+25,Drama|Western,Brassicaceae,true,false,Duck - Breast,jcb
+905,Drama|Thriller,Cistaceae,false,true,Cake - Miini Cheesecake Cherry,jcb
+929,Comedy|Crime,Cyperaceae,false,true,Shopper Bag - S - 4,visa-electron
+493,Crime|Drama|Horror,Rubiaceae,true,false,Pork - Back Ribs,mastercard
+965,Action|Adventure|Drama,Asteraceae,false,true,Wine - Soave Folonari,visa-electron
+754,Comedy,Flacourtiaceae,false,true,Flavouring - Orange,jcb
+566,Comedy|Fantasy|Romance,Euphorbiaceae,false,false,Sherry - Dry,solo
+192,Action|Thriller,Fabaceae,false,false,Clam - Cherrystone,visa
+971,Comedy,Lecanoraceae,true,true,Curry Powder Madras,diners-club-enroute
+931,Comedy|Drama|Romance,Ranunculaceae,true,true,Squid - Breaded,solo
+144,Comedy|Drama|Musical,Orchidaceae,false,true,Flour - So Mix Cake White,jcb
+597,Romance|Sci-Fi,Asteraceae,false,false,"Pasta - Rotini, Dry",mastercard
+1000,Comedy|Drama,Fissidentaceae,false,true,Glycerine,jcb
+672,Crime|Drama,Fabaceae,false,true,Icecream Cone - Areo Chocolate,china-unionpay
+462,Documentary,Cyperaceae,true,true,Bread - Crusty Italian Poly,bankcard
+473,Comedy|Drama,Stereocaulaceae,false,true,Bread - Bistro White,jcb
+830,Drama,Juglandaceae,false,false,Strawberries,visa
+846,Drama|Romance,Pteridaceae,true,true,"Soup - French Onion, Dry",jcb
+563,Adventure|Animation|Comedy,Polemoniaceae,false,true,Wine - Riesling Alsace Ac 2001,jcb
+60,Crime|Drama|Mystery,Asteraceae,false,true,"Stock - Veal, Brown",jcb
+364,Drama,Ranunculaceae,false,true,Kellogs All Bran Bars,americanexpress
+124,Action|Drama|Thriller,Cyperaceae,true,true,Flower - Carnations,jcb
+340,Documentary,Asteraceae,false,false,Beans - Fine,mastercard
+171,Adventure|Drama|Romance|War,Dryopteridaceae,false,false,Strawberries - California,jcb
+949,Adventure|Comedy|Musical,Boraginaceae,false,true,"Onions - Dried, Chopped",jcb
+671,Horror|Thriller,Caryophyllaceae,true,true,Kiwi,jcb
+340,Comedy|Romance,Aristolochiaceae,false,true,Chocolate - Milk,visa
+605,Thriller,Asteraceae,true,true,Sprouts - Brussel,switch
+983,Comedy|Drama|Horror|Thriller,Cyperaceae,false,true,"Fish - Scallops, Cold Smoked",maestro
+128,Action|Adventure,Fabaceae,false,false,Beef - Sushi Flat Iron Steak,diners-club-enroute
+530,Comedy|Drama,Meliaceae,true,true,Wine - Alsace Gewurztraminer,china-unionpay
+954,Horror,Asteraceae,false,true,Sesame Seed,maestro
+929,Comedy|Drama,Uncertain Ascomycota Family,false,true,Wine - Segura Viudas Aria Brut,instapayment
+104,Action|Adventure|Western,Poaceae,false,false,Wine - Jackson Triggs Okonagan,jcb
+773,Drama,Piperaceae,false,true,Chinese Foods - Chicken Wing,americanexpress
+282,Drama|Romance,Callicostaceae,true,true,"Pepper - Paprika, Hungarian",laser
+547,Crime|Drama|Thriller,Teloschistaceae,false,true,"Fish - Atlantic Salmon, Cold",visa
+362,Documentary,Salicaceae,true,true,Duck - Fat,jcb
+771,Comedy|Romance,Poaceae,true,true,"Beef - Cooked, Corned",jcb
+791,Drama|Romance,Cyperaceae,false,false,"Wine - White, Schroder And Schyl",laser
+470,Horror,Polygonaceae,false,true,Cod - Black Whole Fillet,visa-electron
+122,Action|Adventure|Sci-Fi|IMAX,Thrombiaceae,false,false,Flower - Carnations,jcb
+149,Comedy|Musical,Rosaceae,false,true,Spice - Peppercorn Melange,maestro
+608,Crime|Mystery|Thriller,Bartramiaceae,true,true,Salmon - Sockeye Raw,diners-club-carte-blanche
+138,Comedy|Drama|Romance,Lecanoraceae,false,true,"Beef - Ground, Extra Lean, Fresh",mastercard
+444,Documentary|Musical,Caliciaceae,false,true,Beef - Tenderloin - Aa,diners-club-carte-blanche
+357,Comedy|Drama|Romance,Polemoniaceae,true,false,Squid - U 5,china-unionpay
+853,Adventure|Comedy|Musical|Romance|Sci-Fi,Asteraceae,false,false,Beef - Cow Feet Split,jcb
+758,Comedy|Crime|Drama|Musical,Physciaceae,true,true,Capers - Pickled,jcb
+858,Comedy,Asteraceae,true,false,"Glass - Wine, Plastic, Clear 5 Oz",americanexpress
+193,Drama,Asteraceae,false,true,Latex Rubber Gloves Size 9,visa-electron
+779,Musical,Malvaceae,false,false,Hipnotiq Liquor,maestro
+363,Action|Adventure|Drama|Sci-Fi,Chenopodiaceae,false,true,Juice - V8 Splash,diners-club-enroute
+753,Drama|Mystery|Romance,Pannariaceae,true,true,Clams - Canned,diners-club-carte-blanche
+307,Action|Adventure|Drama|Sci-Fi,Saxifragaceae,false,false,Rhubarb,visa-electron
+269,Drama,Polygonaceae,false,false,"Pepper - Chillies, Crushed",china-unionpay
+225,Horror|Sci-Fi|Thriller,Grimmiaceae,true,true,Flour - Rye,jcb
+478,Crime|Drama|Mystery,Lamiaceae,true,false,Turkey Tenderloin Frozen,jcb
+695,Comedy|Romance,Asteraceae,true,false,Lime Cordial - Roses,diners-club-enroute
+584,Adventure|Children,Dryopteridaceae,true,false,"Sprite, Diet - 355ml",diners-club-enroute
+699,Drama|Romance,Fabaceae,false,true,Milk - 2%,jcb
+204,Comedy|Drama|Romance,Rhamnaceae,false,false,Seaweed Green Sheets,jcb
+298,Drama|Romance,Fabaceae,false,true,Eggs - Extra Large,jcb
+824,Drama,Asteraceae,true,true,Halibut - Fletches,mastercard
+36,Crime|Thriller,Stereocaulaceae,true,false,"Shrimp - 21/25, Peel And Deviened",americanexpress
+542,Drama,Rubiaceae,true,true,"Peas - Pigeon, Dry",jcb
+469,Comedy,Asclepiadaceae,false,true,Beef - Tenderloin Tails,jcb
+715,Crime|Drama|Western,Dryopteridaceae,false,false,Pasta - Canelloni,jcb
+513,Documentary|Musical,Gentianaceae,false,true,Icecream - Dstk Cml And Fdg,mastercard
+257,Comedy,Fabaceae,true,false,"Salt - Rock, Course",laser
+236,Drama|War,Primulaceae,true,true,Puree - Mocha,diners-club-enroute
+337,Crime|Drama,Liliaceae,true,false,Chicken - Soup Base,jcb
+429,Drama,Asteraceae,true,true,Coffee - Espresso,jcb
+611,Comedy|Horror,Fabaceae,false,true,Shrimp - Black Tiger 6 - 8,diners-club-carte-blanche
+243,Drama|Thriller,Lecideaceae,true,true,"Yogurt - Blueberry, 175 Gr",maestro
+101,Comedy,Cyperaceae,true,true,Soup - Campbells Mac N Cheese,americanexpress
+965,Drama,Uncertain Ascomycota Family,true,true,Tea - Grapefruit Green Tea,diners-club-enroute
+103,Action|Comedy|Crime,Orchidaceae,true,true,"Coconut - Creamed, Pure",switch
+54,Action|Adventure|Animation|Drama|Sci-Fi,Asteraceae,true,false,Sugar - Individual Portions,diners-club-enroute
+966,Drama,Asteraceae,true,true,Sauce - Soy Low Sodium - 3.87l,jcb
+361,Drama|Fantasy|Romance,Hydrophyllaceae,false,true,Flour Dark Rye,jcb
+797,Comedy|Horror,Boraginaceae,false,false,Wine - Casillero Del Diablo,jcb
+285,Drama|Horror|Sci-Fi|Thriller,Hydrangeaceae,false,false,Carbonated Water - White Grape,jcb
+424,Drama,Ranunculaceae,false,false,Appetizer - Lobster Phyllo Roll,jcb
+411,Drama|War,Scrophulariaceae,false,true,Praline Paste,mastercard
+270,Horror,Brassicaceae,true,false,Appetizer - Sausage Rolls,diners-club-enroute
+558,Drama|Western,Elaeocarpaceae,false,true,Wine - Manischewitz Concord,mastercard
+749,Thriller|War,Asteraceae,false,false,Wine - Chateauneuf Du Pape,jcb
+911,Children|Comedy,Asteraceae,false,true,Pork - Ground,jcb
+81,Children|Comedy|Fantasy,Onagraceae,true,false,Cheese - Pont Couvert,jcb
+205,Action|Crime|Drama,Lamiaceae,true,false,Flavouring - Raspberry,mastercard
+218,Drama,Physciaceae,false,true,"Syrup - Monin, Amaretta",solo
+594,Comedy|Romance,Poaceae,false,false,Cup - 4oz Translucent,americanexpress
+485,Adventure,Solanaceae,true,false,"Roe - Lump Fish, Black",jcb
+51,Drama,Cyperaceae,false,true,Bread - Crusty Italian Poly,visa-electron
+460,Action|Documentary|Drama|Romance|War,Asteraceae,true,false,Truffle Shells - White Chocolate,jcb
+344,Horror,Rosaceae,true,true,Nutmeg - Ground,china-unionpay
+249,Drama|Romance|War,Asteraceae,true,false,Muffin Mix - Raisin Bran,jcb
+659,Comedy,Fabaceae,true,true,Thyme - Fresh,visa-electron
+628,Comedy|Drama,Juncaceae,true,true,Wine - Zinfandel Rosenblum,jcb
+289,Drama,Liliaceae,true,true,"Tart Shells - Savory, 2",switch
+760,Documentary,Acanthaceae,false,true,Beef - Top Sirloin,jcb
+81,Thriller,Lamiaceae,true,false,Cleaner - Lime Away,mastercard
+871,Action|Crime|Thriller,Polemoniaceae,false,false,Veal - Inside,bankcard
+844,Comedy|Western,Lamiaceae,true,false,"Beef - Roasted, Cooked",jcb
+422,(no genres listed),Loasaceae,false,true,Tomatoes - Heirloom,china-unionpay
+954,Action|Drama|War,Portulacaceae,false,false,Chutney Sauce,jcb
+794,Action,Pertusariaceae,true,false,"Wine - White, Schroder And Schyl",jcb
+661,Drama,Polemoniaceae,true,true,Vinegar - Tarragon,jcb
+630,Comedy|Romance,Brassicaceae,true,true,"Squash - Pattypan, Yellow",solo
+146,Documentary,Fabaceae,true,true,Mint - Fresh,instapayment
+467,Action|Crime|Mystery|Thriller,Verbenaceae,true,false,Eggroll,mastercard
+977,Drama,Aceraceae,false,true,Carbonated Water - Strawberry,diners-club-us-ca
+280,Action|Adventure|Drama|War,Poaceae,false,false,Curry Powder,americanexpress
+193,Action,Poaceae,true,false,Quiche Assorted,mastercard
+645,Comedy|Drama,Asteraceae,false,false,"Roe - Lump Fish, Red",laser
+588,Comedy|Romance,Valerianaceae,false,false,Cheese Cloth,bankcard
+249,Action|Adventure|Animation|Children|Comedy|Romance,Arthoniaceae,true,false,Gherkin,solo
+206,Documentary|Drama,Surianaceae,false,false,Beef Dry Aged Tenderloin Aaa,jcb
+623,Drama|Romance,Poaceae,true,false,Wine - Barossa Valley Estate,jcb
+217,Drama|Romance,Peltigeraceae,false,true,Bread - Bistro White,visa
+334,Action|Crime|Drama|War,Chenopodiaceae,true,false,Mountain Dew,solo
+229,Action|Drama|Sci-Fi|Thriller,Clusiaceae,false,false,Jam - Raspberry,visa
+793,Drama|Romance,Teloschistaceae,false,true,Irish Cream - Butterscotch,jcb
+421,Crime|Horror|Mystery|Thriller,Thelypteridaceae,true,false,Latex Rubber Gloves Size 9,bankcard
+823,Horror,Cyperaceae,true,true,Beer - Camerons Cream Ale,china-unionpay
+1000,Animation|Comedy,Fabaceae,false,true,Tomatoes - Orange,americanexpress
+44,Crime|Thriller,Poaceae,true,false,Truffle Cups Green,jcb
+675,Drama|Romance,Brassicaceae,false,false,Shrimp - Black Tiger 6 - 8,mastercard
+97,Action|Animation|Sci-Fi,Rosaceae,true,false,"Tuna - Canned, Flaked, Light",diners-club-international
+836,(no genres listed),Saxifragaceae,false,false,Versatainer Nc - 8288,jcb
+274,Comedy|Horror,Portulacaceae,false,false,Sprouts - Onion,china-unionpay
+214,Adventure|Comedy,Euphorbiaceae,false,false,Sauce - Soy Low Sodium - 3.87l,solo
+1,Action|Drama|Mystery|Thriller,Fabaceae,false,true,Vodka - Moskovskaya,bankcard
+175,Documentary,Asteraceae,false,false,Worcestershire Sauce,switch
+813,Drama,Polemoniaceae,false,false,"Carrots - Mini, Stem On",jcb
+896,Action|Adventure|Crime|Mystery|Romance,Poaceae,true,false,Carbonated Water - White Grape,jcb
+236,Comedy|Horror|Thriller,Fabaceae,false,true,Mint - Fresh,bankcard
+649,Drama|Romance,Smilacaceae,false,true,Sobe - Berry Energy,jcb
+508,Comedy,Poaceae,true,true,Sauce - Vodka Blush,visa
+438,Comedy|Musical|Romance,Asteraceae,false,true,"Tomatoes - Vine Ripe, Yellow",china-unionpay
+643,Action|Crime|Drama|Thriller,Asteraceae,false,false,Oats Large Flake,china-unionpay
+786,Action|Crime|Drama,Cyperaceae,false,false,Syrup - Kahlua Chocolate,bankcard
+275,Drama|War,Hymenophyllaceae,true,true,Island Oasis - Raspberry,visa
+592,Comedy|Musical|Romance,Arecaceae,true,true,Aspic - Light,diners-club-enroute
+853,Drama,Onagraceae,false,true,"Juice - Apple, 341 Ml",diners-club-carte-blanche
+338,Comedy|Drama,Thelotremataceae,false,true,Wine - Cave Springs Dry Riesling,jcb
+717,Comedy|Drama,Lecanoraceae,false,false,Carbonated Water - Strawberry,mastercard
+630,Comedy|Drama|Musical|Romance,Asteraceae,true,false,Pickerel - Fillets,switch
+36,Action|Thriller,Haematommataceae,true,true,Cheese - Grie Des Champ,jcb
+794,Drama,Asteraceae,true,true,Sugar - Icing,jcb
+668,Comedy|Romance,Cyperaceae,true,true,Flour - So Mix Cake White,mastercard
+770,Action|Comedy,Marattiaceae,false,false,Wine - Shiraz Wolf Blass Premium,switch
+889,Drama|War,Hymeneliaceae,true,false,Lettuce - Arugula,americanexpress
+893,Crime|Drama,Apocynaceae,false,true,Basil - Pesto Sauce,jcb
+473,Animation|Comedy,Ranunculaceae,false,true,Juice - Lagoon Mango,americanexpress
+244,Fantasy|Romance|Sci-Fi,Ophioglossaceae,false,false,Corn Meal,instapayment
+744,Action|Thriller,Caprifoliaceae,false,true,Bread - Olive Dinner Roll,jcb
+464,Drama,Liliaceae,false,true,Carbonated Water - Lemon Lime,jcb
+203,Adventure|Drama,Fabaceae,true,false,Tuna - Fresh,mastercard
+629,Children|Comedy|Musical,Malvaceae,false,true,Beer - Sleeman Fine Porter,bankcard
+947,Action|Drama,Haloragaceae,false,false,"Veal - Shank, Pieces",jcb
+997,Crime|Drama|Thriller,Polygonaceae,true,true,Pork Loin Bine - In Frenched,jcb
+473,Crime|Drama|Mystery|Thriller,Rubiaceae,true,false,"Cookies - Oreo, 4 Pack",visa-electron
+999,Drama|Sci-Fi,Rosaceae,true,false,Cookie - Oatmeal,maestro
+467,Documentary,Brassicaceae,true,true,Calypso - Pineapple Passion,switch
+857,Comedy|Drama,Rhamnaceae,false,false,Tomatoes - Orange,bankcard
+98,Comedy,Funariaceae,true,false,Knife Plastic - White,americanexpress
+853,Crime|Drama|Thriller,Liliaceae,true,true,Bar - Sweet And Salty Chocolate,jcb
+850,Comedy|Horror|Sci-Fi,Polygonaceae,true,true,Sauce - Alfredo,visa
+356,Comedy,Myrtaceae,false,true,Squash - Butternut,jcb
+120,Adventure|Sci-Fi,Geraniaceae,false,true,Tea - Earl Grey,jcb
+475,Horror,Asteraceae,false,false,Bacardi Raspberry,solo
+393,Action,Malvaceae,true,true,Dried Cherries,jcb
+891,Animation|Children,Rosaceae,true,true,Dry Ice,jcb
+282,Drama,Liliaceae,false,false,Beer - Upper Canada Light,mastercard
+804,Adventure|Fantasy|Sci-Fi,Verbenaceae,false,true,Grapes - Red,solo
+53,Adventure|Comedy|Crime,Betulaceae,false,true,Wine - Prosecco Valdobiaddene,visa-electron
+872,Crime|Drama,Hypnaceae,false,false,Pears - Anjou,jcb
+428,Crime|Drama,Brassicaceae,true,false,Wine - Shiraz South Eastern,jcb
+123,Documentary,Pterigynandraceae,true,true,Flour - Strong,mastercard
+25,Action|Mystery|Thriller,Porpidiaceae,false,false,Puff Pastry - Slab,jcb
+221,Horror|Sci-Fi,Salicaceae,true,false,Bread Base - Goodhearth,maestro
+613,Crime|Drama,Physciaceae,false,true,Sobe - Lizard Fuel,jcb
+711,Children|Comedy,Fabaceae,true,true,Wine - Casillero Del Diablo,instapayment
+762,Documentary|Western,Scrophulariaceae,false,false,Pastry - Choclate Baked,diners-club-enroute
+414,Children|Comedy|Drama,Hippocrateaceae,false,true,Hold Up Tool Storage Rack,jcb
+217,Comedy|Drama,Brassicaceae,false,false,Broom - Push,jcb
+911,Drama,Bromeliaceae,true,true,"Pasta - Fettuccine, Dry",jcb
+907,Comedy|Drama|Romance,Rosaceae,true,true,"Artichoke - Hearts, Canned",switch
+748,Action|Adventure|Thriller,Fabaceae,true,true,Bread Roll Foccacia,diners-club-enroute
+57,Drama|War,Fabaceae,false,true,Ice Cream - Vanilla,jcb
+726,Adventure,Physciaceae,false,false,"Red Snapper - Fresh, Whole",jcb
+790,Documentary,Linaceae,true,false,Beer - Sleemans Cream Ale,jcb
+73,Drama|Romance,Pottiaceae,false,false,Mahi Mahi,laser
+471,Drama,Brassicaceae,true,true,Beef - Prime Rib Aaa,jcb
+642,Adventure|Sci-Fi,Rosaceae,true,true,Cookie - Dough Variety,visa-electron
+643,Crime|Thriller,Violaceae,true,true,Wine - Chateau Timberlay,mastercard
+757,Adventure|Animation|Children|Comedy|IMAX,Liliaceae,false,true,"Soup - Campbells, Butternut",solo
+42,Crime|Drama,Salicaceae,true,true,"Juice - Cranberry, 341 Ml",americanexpress
+627,Drama|Romance,Asteraceae,false,true,Rice - Aborio,bankcard
+232,Adventure|Fantasy|Thriller|IMAX,Scrophulariaceae,true,true,"Tart Shells - Sweet, 4",bankcard
+478,Action|Adventure|Children|Comedy|Sci-Fi,Fabaceae,true,true,Pork - Sausage Casing,laser
+341,Action|Drama,Hydrophyllaceae,false,true,"Wine - White, Concha Y Toro",jcb
+384,Action|Crime|Thriller,Polemoniaceae,false,true,"Beef - Bones, Marrow",jcb
+120,(no genres listed),Asteraceae,true,true,Spinach - Frozen,jcb
+37,Drama|War,Cyperaceae,true,false,Pepper - Pablano,instapayment
+289,Comedy,Liliaceae,true,false,"Tart Shells - Barquettes, Savory",maestro
+909,Comedy|Drama,Salicaceae,false,true,Crab - Soft Shell,jcb
+454,Documentary,Cactaceae,false,false,Campari,jcb
+125,Comedy,Pittosporaceae,true,true,Scallops - U - 10,jcb
+928,Adventure|Comedy|Fantasy|Sci-Fi,Theliaceae,false,true,Blueberries,visa
+449,Drama,Cistaceae,false,true,Bagel - Everything,mastercard
+715,Horror|Thriller,Clusiaceae,false,true,"Shrimp - Baby, Cold Water",jcb
+922,Horror,Saxifragaceae,true,false,Yoplait - Strawbrasp Peac,jcb
+806,Action|Adventure|Fantasy,Juncaceae,false,true,Cheese - Colby,jcb
+867,Drama|Fantasy|Romance,Clusiaceae,false,false,"Sugar - Brown, Individual",diners-club-enroute
+515,Action|Drama|Sci-Fi|Thriller,Asteraceae,false,false,Cleaner - Bleach,diners-club-us-ca
+644,Comedy,Asteraceae,true,false,"Cheese - Havarti, Salsa",bankcard
+672,Action|War,Asteraceae,true,true,Ice Cream - Chocolate,diners-club-international
+976,Action,Poaceae,false,true,Chevere Logs,mastercard
+432,Comedy|Romance,Polygonaceae,true,true,Fondant - Icing,jcb
+925,Drama,Asteraceae,true,true,Bread Crumbs - Panko,bankcard
+234,Comedy,Oleaceae,true,true,"Beef - Ox Tail, Frozen",mastercard
+113,Comedy|Drama|Musical|Romance,Fabaceae,true,true,Mints - Striped Red,laser
+532,Horror|Thriller,Saxifragaceae,false,false,Potatoes - Mini Red,mastercard
+670,Comedy|Drama,Liliaceae,true,false,"Sauce - Bernaise, Mix",jcb
+228,Drama,Ranunculaceae,false,true,Sobe - Cranberry Grapefruit,solo
+822,Action|Crime|Drama|Thriller,Fagaceae,true,true,Marzipan 50/50,laser
+694,Comedy|Fantasy|Romance,Thuidiaceae,true,true,Waffle Stix,jcb
+764,Drama,Lamiaceae,false,true,Eggwhite Frozen,mastercard
+417,Drama|Romance,Boraginaceae,false,false,Nougat - Paste / Cream,visa-electron
+757,Action|Crime|Thriller,Juncaceae,false,false,Beef - Kobe Striploin,jcb
+394,Comedy,Rutaceae,false,false,Shopper Bag - S - 4,diners-club-enroute
+361,Comedy|Drama,Cyperaceae,false,false,Dehydrated Kelp Kombo,jcb
+806,Adventure|Drama,Ranunculaceae,false,true,Pasta - Orecchiette,jcb
+143,Drama,Euphorbiaceae,false,false,Bacardi Breezer - Strawberry,maestro
+334,Documentary,Asteraceae,true,true,Magnotta - Bel Paese White,mastercard
+274,Drama|Thriller,Fabaceae,true,true,"Tortillas - Flour, 10",jcb
+748,Drama,Polygonaceae,false,true,Tea - Jasmin Green,visa-electron
+367,Comedy,Asteraceae,true,true,Roe - White Fish,mastercard
+239,Crime|Drama,Acanthaceae,true,true,Muffin Mix - Morning Glory,jcb
+259,Comedy|Musical,Poaceae,false,true,Veal - Nuckle,jcb
+281,Comedy,Brassicaceae,true,false,Beer - Muskoka Cream Ale,laser
+27,Drama,Lichenotheliaceae,false,false,Soup - Base Broth Beef,maestro
+517,Drama|War,Asteraceae,true,false,Juice - Happy Planet,mastercard
+758,Comedy|Drama,Asteraceae,false,true,Pork - Caul Fat,mastercard
+817,Comedy,Rosaceae,true,false,Longos - Grilled Veg Sandwiches,mastercard
+285,Comedy|Romance,Polemoniaceae,true,false,Pants Custom Dry Clean,laser
+261,Drama,Asclepiadaceae,true,false,Eggs - Extra Large,jcb
+169,Comedy|Romance,Plantaginaceae,false,false,"Crab - Claws, Snow 16 - 24",jcb
+408,Drama|Sci-Fi,Primulaceae,true,true,Salt - Kosher,jcb
+637,Action|Adventure|Horror|Thriller,Crassulaceae,false,true,Beer - Camerons Auburn,visa-electron
+445,Western,Asteraceae,false,true,Cookies Oatmeal Raisin,americanexpress
+321,Documentary,Asteraceae,true,false,Icecream Cone - Areo Chocolate,diners-club-us-ca
+828,Drama,Apocynaceae,false,true,Wine - Sake,mastercard
+679,Action|Romance|War,Cactaceae,false,true,Wine - Ice Wine,jcb
+861,Documentary|Horror,Lythraceae,true,true,Cake - Mini Cheesecake,jcb
+976,Documentary,Fagaceae,true,true,"Wine - Magnotta, White",visa-electron
+333,Drama|Musical|Romance,Cyperaceae,true,true,"Pepper - White, Whole",americanexpress
+923,Horror,Poaceae,true,true,Rabbit - Whole,jcb
+93,Drama,Rosaceae,true,false,Steam Pan - Half Size Deep,bankcard
+631,Documentary,Juncaceae,true,true,Cranberries - Fresh,jcb
+513,Comedy|Musical|Romance,Brassicaceae,false,false,Blouse / Shirt / Sweater,jcb
+714,Children|Comedy,Caryocaraceae,true,false,Artichoke - Fresh,maestro
+584,Drama|Thriller,Cyperaceae,false,true,Crush - Cream Soda,diners-club-enroute
+879,Comedy,Euphorbiaceae,false,true,Tea Leaves - Oolong,americanexpress
+818,Action|Adventure,Rubiaceae,false,true,Rice - Aborio,jcb
+572,Drama,Polygonaceae,true,false,"Split Peas - Green, Dry",jcb
+369,Drama,Cyperaceae,true,false,"Juice - Apple, 500 Ml",jcb
+317,Comedy|Drama|Romance,Scrophulariaceae,true,true,Bread - Focaccia Quarter,jcb
+560,Horror|Sci-Fi,Parmeliaceae,true,false,Fireball Whisky,jcb
+44,Drama,Fabaceae,false,true,Wine - Chateauneuf Du Pape,switch
+162,Drama,Poaceae,false,false,Juice - Apple Cider,visa-electron
+562,Comedy,Dacampiaceae,true,false,Food Colouring - Pink,jcb
+943,Adventure|Romance,Asteraceae,true,false,Wine - Champagne Brut Veuve,maestro
+534,Drama|Sci-Fi,Chenopodiaceae,false,true,Spice - Peppercorn Melange,jcb
+768,Comedy|Romance,Hypnaceae,true,true,"Crab - Claws, 26 - 30",switch
+72,Drama|Romance|War,Thamnobryaceae,false,true,Paste - Black Olive,visa-electron
+598,Action,Cactaceae,true,false,Mace,switch
+536,Action|Drama,Fabaceae,true,true,Sauce Bbq Smokey,maestro
+608,Action|Adventure|Sci-Fi|IMAX,Verbenaceae,true,true,Beer - Sleemans Honey Brown,visa-electron
+652,Comedy,Podostemaceae,true,true,"Wine - Magnotta, White",diners-club-enroute
+704,Comedy|Drama,Lamiaceae,false,true,Ecolab - Mikroklene 4/4 L,china-unionpay
+372,Comedy|Drama,Surianaceae,true,true,"Salmon - Whole, 4 - 6 Pounds",jcb
+194,Drama|War,Ericaceae,false,true,Grapes - Green,jcb
+60,Action|Comedy,Physciaceae,false,true,"Pasta - Penne, Rigate, Dry",diners-club-enroute
+205,Adventure|Animation|Comedy|Fantasy|Musical|Romance,Myrtaceae,true,true,Pails With Lids,visa-electron
+979,Animation|Comedy,Fabaceae,true,false,Icecream - Dstk Strw Chseck,jcb
+141,Drama|Thriller,Rosaceae,true,false,Vodka - Smirnoff,jcb
+521,Drama|Mystery|Romance,Apiaceae,false,false,Sobe - Green Tea,jcb
+563,Comedy|Drama,Solanaceae,false,false,Triple Sec - Mcguinness,jcb
+374,Documentary,Cyperaceae,true,true,Wine - Beringer Founders Estate,jcb
+300,Action|Adventure|Comedy|Drama|Romance|War,Ceratophyllaceae,false,false,Canada Dry,americanexpress
+296,Drama|Romance|War,Arecaceae,false,true,White Baguette,diners-club-enroute
+788,Drama|War,Pinaceae,false,false,Tuna - Yellowfin,jcb
+633,Comedy|Crime,Lentibulariaceae,true,true,Onions - White,diners-club-enroute
+635,Adventure|Children|Drama,Caryophyllaceae,false,false,Beer - Sleemans Honey Brown,jcb
+901,Drama|Romance,Violaceae,true,false,Potato - Sweet,laser
+925,(no genres listed),Gentianaceae,false,false,Chips - Assorted,jcb
+963,Horror|Sci-Fi,Marantaceae,true,true,Muffin Mix - Raisin Bran,bankcard
+458,Horror,Poaceae,false,false,Cardamon Ground,laser
+498,Thriller,Poaceae,true,false,The Pop Shoppe Pinapple,jcb
+911,Comedy|Drama|Romance,Brassicaceae,true,true,"Soup - Clam Chowder, Dry Mix",bankcard
+871,Thriller,Sapindaceae,false,false,"Cheese - Havarti, Salsa",visa-electron
+803,Documentary,Brassicaceae,true,true,"Sauce - Apple, Unsweetened",maestro
+464,Drama|Romance|War,Malvaceae,false,true,Coffee Cup 8oz 5338cd,jcb
+184,Drama,Cyperaceae,false,false,"Lamb - Shoulder, Boneless",visa
+200,Drama|Horror,Thymelaeaceae,false,false,Cheese - Pied De Vents,china-unionpay
+124,Drama|Fantasy|Romance,Myrtaceae,true,false,"Hickory Smoke, Liquid",diners-club-enroute
+798,Drama,Fabaceae,false,false,Table Cloth 62x120 Colour,mastercard
+781,Drama,Collemataceae,true,true,Lettuce - Escarole,jcb
+690,Drama|Film-Noir|Thriller,Mastodiaceae,true,true,Ham - Procutinni,jcb
+340,Drama,Mycocaliciaceae,true,false,"Beans - Navy, Dry",switch
+406,(no genres listed),Solanaceae,false,false,Fruit Mix - Light,jcb
+255,Comedy,Boraginaceae,true,true,Fork - Plastic,jcb
+126,Drama|Horror|Thriller,Aspleniaceae,false,false,"Pasta - Bauletti, Chicken White",americanexpress
+764,Drama,Lentibulariaceae,false,true,"Champagne - Brights, Dry",jcb
+756,Horror,Myrtaceae,false,true,Wine - Prosecco Valdobienne,jcb
+341,Comedy|Drama,Scrophulariaceae,true,true,Compound - Rum,jcb
+134,Crime|Drama,Scrophulariaceae,false,true,Vodka - Smirnoff,diners-club-enroute
+272,Crime|Drama,Asteraceae,true,true,Energy Drink Red Bull,visa-electron
+204,Drama,Poaceae,true,false,Table Cloth 54x54 Colour,china-unionpay
+746,Drama,Thelotremataceae,false,false,Icecream - Dstk Strw Chseck,jcb
+65,Action|Drama,Convolvulaceae,false,false,Chicken - Whole Fryers,bankcard
+681,Drama,Pottiaceae,false,true,Carbonated Water - Wildberry,china-unionpay
+690,Drama,Agavaceae,false,false,Allspice - Jamaican,jcb
+503,Comedy|Drama,Polemoniaceae,false,true,Tea - Jasmin Green,jcb
+724,Comedy|Romance,Solanaceae,true,true,Macaroons - Homestyle Two Bit,jcb
+709,Comedy,Convolvulaceae,false,true,Eggplant - Asian,diners-club-enroute
+469,Comedy|Drama|War,Fabaceae,false,true,Cookie Dough - Chunky,jcb
+291,Horror,Dicranaceae,false,true,Wine - Jafflin Bourgongone,mastercard
+376,Documentary,Lamiaceae,false,false,"Nut - Almond, Blanched, Whole",jcb
+197,Drama,Anacardiaceae,false,false,"Pepsi - Diet, 355 Ml",switch
+902,Drama|Romance,Fabaceae,true,false,Bread Foccacia Whole,jcb
+304,Children|Comedy,Umbilicariaceae,false,false,Scallops - Live In Shell,bankcard
+968,Drama,Poaceae,false,true,Guinea Fowl,laser
+510,Drama|Musical,Orchidaceae,false,false,Beets - Golden,visa-electron
+600,Documentary,Solanaceae,true,false,"Gingerale - Schweppes, 355 Ml",mastercard
+224,Comedy,Polygonaceae,true,false,Cranberries - Dry,jcb
+702,Drama|Fantasy|Musical|Romance,Brassicaceae,false,true,Pears - Fiorelle,jcb
+968,Comedy|Drama,Apiaceae,false,true,Papayas,solo
+377,Comedy|Crime,Asteraceae,false,false,Triple Sec - Mcguinness,maestro
+788,Children|Comedy|Fantasy,Poaceae,true,false,Scallops - Live In Shell,americanexpress
+461,Documentary|War,Lecanoraceae,true,false,Miso - Soy Bean Paste,jcb
+165,Crime|Drama|Mystery,Lycopodiaceae,false,false,Ecolab - Hobart Upr Prewash Arm,china-unionpay
+27,Documentary,Caryophyllaceae,true,true,Pastry - Key Limepoppy Seed Tea,jcb
+83,Drama|Romance,Fabaceae,false,true,Bread - Corn Muffaletta,jcb
+821,Comedy,Asteraceae,false,true,"Tart Shells - Barquettes, Savory",switch
+813,Comedy,Asteraceae,true,false,Sprouts - Bean,americanexpress
+724,Drama|Romance,Caprifoliaceae,false,false,Burger Veggie,jcb
+926,Drama,Liliaceae,false,true,"Oregano - Dry, Rubbed",mastercard
+509,Horror,Poaceae,true,true,"Seedlings - Buckwheat, Organic",visa
+773,Action|Sci-Fi,Brassicaceae,true,false,Flavouring Vanilla Artificial,jcb
+423,Mystery|Thriller,Caryophyllaceae,true,false,Foam Dinner Plate,mastercard
+595,Comedy|Drama,Apiaceae,false,true,Wine - Magnotta - Belpaese,instapayment
+273,Drama,Polygonaceae,false,true,Energy Drink - Franks Original,jcb
+725,Comedy|Romance,Asteraceae,true,false,Plums - Red,jcb
+240,Drama,Scrophulariaceae,false,false,Chicken - Whole Fryers,visa
+414,Drama|Horror|Musical|Thriller,Asteraceae,true,true,Nori Sea Weed,jcb
+436,Horror|Romance|Thriller,Fabaceae,true,true,Lid Coffee Cup 8oz Blk,china-unionpay
+144,Documentary|War,Malvaceae,true,false,Cheese - Ermite Bleu,jcb
+310,Comedy|Horror|Mystery|Thriller,Cyperaceae,true,false,Bread Base - Italian,diners-club-us-ca
+673,Comedy|Romance,Campanulaceae,true,false,Lamb - Shoulder,jcb
+207,Documentary,Convolvulaceae,true,true,"Chocolate - Pistoles, White",jcb
+641,Drama,Asteraceae,false,false,Chocolate - Milk,china-unionpay
+556,Drama,Cyperaceae,true,true,Dc - Frozen Momji,visa
+57,Documentary,Poaceae,false,true,Longos - Lasagna Veg,switch
+713,Animation|Comedy,Solanaceae,true,false,Sprouts Dikon,jcb
+661,Horror|Thriller,Ephedraceae,true,false,Cranberries - Frozen,jcb
+529,Documentary,Moraceae,false,true,Soup - Campbells Mac N Cheese,jcb
+249,Comedy,Asteraceae,false,true,The Pop Shoppe - Cream Soda,jcb
+772,Comedy,Cladoniaceae,true,false,Soup - Cream Of Potato / Leek,china-unionpay
+76,Drama,Lythraceae,true,true,Uniform Linen Charge,diners-club-enroute
+495,Drama|Romance,Cactaceae,false,true,Juice - Happy Planet,jcb
+373,Comedy|Drama|Romance,Scrophulariaceae,true,true,Remy Red Berry Infusion,jcb
+761,Action|Thriller,Cunoniaceae,false,false,Oil - Safflower,jcb
+888,Comedy,Apiaceae,false,true,Chocolate - Milk Coating,jcb
+617,Comedy|Sci-Fi,Onagraceae,false,false,Tea - Vanilla Chai,jcb
+634,Crime|Drama|Romance,Polemoniaceae,true,false,Coffee - Dark Roast,china-unionpay
+821,Horror|Mystery|Thriller,Celastraceae,true,true,"Beef - Kindney, Whole",bankcard
+175,Drama,Fabaceae,true,true,Sachet,china-unionpay
+155,Documentary,Melastomataceae,false,true,Cheese Cloth,mastercard
+868,Crime|Film-Noir,Euphorbiaceae,false,false,Cocoa Powder - Dutched,jcb
+229,Comedy|Crime,Lamiaceae,false,true,"Pasta - Cappellini, Dry",jcb
+410,Drama|Romance|War,Saxifragaceae,false,false,Kirsch - Schloss,switch
+486,Drama,Apiaceae,false,false,Beer - Blue Light,laser
+190,Crime|Thriller,Brassicaceae,false,false,Carbonated Water - Cherry,jcb
+737,Comedy,Euphorbiaceae,true,false,Chinese Foods - Cantonese,jcb
+836,Drama|Thriller,Fabaceae,false,true,"Coconut - Shredded, Sweet",diners-club-carte-blanche
+689,Comedy,Liliaceae,true,false,Carrots - Jumbo,maestro
+982,Comedy,Fabaceae,false,false,"Pasta - Linguini, Dry",americanexpress
+685,Drama|Romance,Poaceae,true,true,Island Oasis - Raspberry,jcb
+218,Western,Fabaceae,false,false,"Wine - Red, Marechal Foch",mastercard
+155,Comedy|Drama|Romance,Convolvulaceae,false,true,Wine - Shiraz Wolf Blass Premium,china-unionpay
+690,Drama,Euphorbiaceae,false,false,Sole - Iqf,bankcard
+192,Horror,Caryophyllaceae,true,false,Spaghetti Squash,maestro
+975,Western,Malvaceae,false,false,Onion - Dried,jcb
+733,Western,Grimmiaceae,false,true,"Lamb - Racks, Frenched",jcb
+485,Adventure|War,Fabaceae,true,true,Wine - Gewurztraminer Pierre,jcb
+943,Drama,Fabaceae,true,true,The Pop Shoppe Pinapple,jcb
+753,Documentary,Fabaceae,true,true,Wine - Pinot Grigio Collavini,switch
+215,Comedy,Poaceae,true,false,Lid - 0090 Clear,jcb
+954,Drama,Fabaceae,false,true,Wine - Vineland Estate Semi - Dry,jcb
+599,Comedy|Drama|Romance,Rosaceae,false,false,"Beans - Fava, Canned",visa-electron
+27,Comedy,Moraceae,true,true,"Soup - Campbells, Minestrone",maestro
+690,Comedy|Drama|Romance,Rhamnaceae,true,true,Chick Peas - Dried,laser
+975,Documentary,Cupressaceae,false,true,Cheese Cloth No 60,jcb
+187,Drama|Romance,Ranunculaceae,false,false,Chocolate - Sugar Free Semi Choc,maestro
+745,Crime|Drama|Thriller,Physciaceae,false,true,Foam Espresso Cup Plain White,jcb
+370,Action,Arecaceae,false,false,Swiss Chard,diners-club-carte-blanche
+260,Drama,Ochnaceae,false,true,Tia Maria,jcb
+450,Action|Horror|Thriller,Dicranaceae,true,false,Water - Spring 1.5lit,jcb
+730,Crime|Thriller,Liliaceae,false,true,"Lettuce - Romaine, Heart",jcb
+972,Horror|Sci-Fi,Brassicaceae,true,true,"Coffee - Colombian, Portioned",jcb
+385,Drama|Romance,Dilleniaceae,false,true,Shiro Miso,jcb
+84,Documentary|Musical,Parmeliaceae,false,false,Langers - Ruby Red Grapfruit,bankcard
+143,Action|Adventure|Crime|Thriller,Ceratophyllaceae,true,true,"Cup - 6oz, Foam",jcb
+986,Drama|Film-Noir|Mystery,Asteraceae,false,true,Beer - Labatt Blue,jcb
+413,Action|Thriller,Orthotrichaceae,true,false,Flour - So Mix Cake White,diners-club-carte-blanche
+507,Drama,Myrtaceae,false,false,Turnip - Wax,jcb
+302,Crime|Drama|Thriller,Primulaceae,true,true,"Lobster - Tail, 3 - 4 Oz",jcb
+58,Drama,Caryophyllaceae,false,false,Salt And Pepper Mix - White,diners-club-carte-blanche
+154,Documentary,Fontinalaceae,true,false,Pork Loin Cutlets,visa-electron
+209,Drama|Horror|Thriller,Hydrophyllaceae,true,false,Pear - Halves,jcb
+842,Drama|Thriller,Cactaceae,true,true,Taro Root,mastercard
+42,Comedy,Lecideaceae,true,false,"Crab - Claws, 26 - 30",jcb
+726,(no genres listed),Moraceae,true,true,"Tomatoes - Diced, Canned",diners-club-enroute
+88,Documentary,Fabaceae,true,false,Tray - 16in Rnd Blk,jcb
+204,Crime|Drama,Cuscutaceae,false,false,Dikon,jcb
+118,Action|Crime|Drama|Thriller,Asteraceae,false,false,Beer - Original Organic Lager,jcb
+232,Action|Adventure,Pinaceae,false,false,Wine - Acient Coast Caberne,jcb
+848,Drama|Horror,Burseraceae,true,true,Wine - Alicanca Vinho Verde,diners-club-enroute
+779,Documentary,Orchidaceae,false,true,Lettuce - Lolla Rosa,diners-club-enroute
+52,Crime|Drama|Film-Noir|Thriller,Cyperaceae,true,false,Star Fruit,visa-electron
+524,Crime|Drama|Romance|Thriller,Pedaliaceae,true,false,Beef - Striploin,laser
+47,Comedy|Drama|Musical,Brachytheciaceae,false,false,Wine - Taylors Reserve,jcb
+335,Drama,Fabaceae,true,false,"Juice - Cranberry, 341 Ml",jcb
+426,Comedy|Musical,Sapotaceae,false,false,Everfresh Products,jcb
+357,Action|Horror|Thriller,Dicranaceae,false,true,Wine - Taylors Reserve,diners-club-carte-blanche
+882,Drama|Mystery|Romance,Parmeliaceae,false,false,Ecolab - Solid Fusion,jcb
+517,Drama,Poaceae,true,false,Remy Red Berry Infusion,americanexpress
+709,Drama,Cyperaceae,false,true,Jicama,jcb
+236,Comedy,Saxifragaceae,true,true,"Stock - Veal, Brown",solo
+31,Drama,Moraceae,true,false,Bread - Focaccia Quarter,americanexpress
+841,Drama,Euphorbiaceae,true,true,Shiro Miso,maestro
+365,Comedy,Araliaceae,false,true,Onion Powder,visa-electron
+686,Comedy|Romance,Polemoniaceae,false,false,Oil - Olive,laser
+206,Comedy,Violaceae,true,false,Sesame Seed,maestro
+701,Drama,Lamiaceae,false,true,V8 Splash Strawberry Banana,jcb
+536,Comedy,Sapindaceae,true,false,"Beef - Rib Roast, Cap On",jcb
+516,Animation|Comedy|Drama|Fantasy|Sci-Fi,Hydrophyllaceae,false,true,Appetizer - Smoked Salmon / Dill,visa
+103,Musical,Scrophulariaceae,false,false,Tomato Paste,jcb
+773,Documentary,Asteraceae,false,false,Pasta - Agnolotti - Butternut,maestro
+818,Adventure|Sci-Fi,Sphagnaceae,true,false,Wine - Pinot Noir Mondavi Coastal,jcb
+751,Thriller,Asteraceae,false,true,Bar Mix - Lemon,bankcard
+355,Adventure|Comedy|Fantasy|Sci-Fi,Cactaceae,true,false,Apple - Fuji,jcb
+594,Crime|Drama|Thriller,Fabaceae,true,false,Coffee Beans - Chocolate,jcb
+210,Drama,Iridaceae,true,false,Rosemary - Dry,diners-club-enroute
+141,Drama,Lentibulariaceae,true,false,Sandwich Wrap,jcb
+926,(no genres listed),Commelinaceae,false,false,Cheese - Ricotta,visa
+321,Drama,Asteraceae,true,true,"Gin - Gilbeys London, Dry",mastercard
+910,Drama|War,Campanulaceae,true,true,Flour - Rye,americanexpress
+702,Drama,Poaceae,false,false,Bandage - Fexible 1x3,jcb
+188,Action|Mystery,Grossulariaceae,false,false,"Soup - Knorr, Country Bean",mastercard
+306,Drama|Romance,Rosaceae,false,true,"Vermouth - White, Cinzano",diners-club-carte-blanche
+315,Crime|Documentary|War,Orchidaceae,true,false,Duck - Breast,bankcard
+346,Drama|Romance|War,Clusiaceae,false,false,"Beef - Chuck, Boneless",jcb
+236,Adventure|Animation|Comedy|Fantasy|Musical,Polygonaceae,true,true,Fudge - Chocolate Fudge,instapayment
+219,Comedy|Drama|Romance,Capparaceae,false,false,Longos - Greek Salad,jcb
+975,Adventure|Animation,Poaceae,false,false,"Crab - Back Fin Meat, Canned",jcb
+836,Drama,Malvaceae,true,true,Broom And Broom Rack White,mastercard
+883,Crime|Drama|Mystery,Catillariaceae,true,true,Juice Peach Nectar,mastercard
+69,Action,Teloschistaceae,true,false,Sobe - Orange Carrot,visa-electron
+591,Adventure|Drama,Physciaceae,false,false,"Wine - Niagara,vqa Reisling",mastercard
+11,Documentary,Polemoniaceae,false,false,Bread - Italian Roll With Herbs,switch
+849,Adventure|Animation|Comedy,Polygonaceae,false,true,Trueblue - Blueberry 12x473ml,diners-club-carte-blanche
+792,Animation|Sci-Fi|IMAX,Cactaceae,true,true,Crackers Cheez It,jcb
+590,Adventure|Drama,Malpighiaceae,true,false,Turkey - Oven Roast Breast,jcb
+692,Documentary|Musical,Ephedraceae,false,true,Ice Cream - Super Sandwich,mastercard
+77,Documentary|War,Lauraceae,true,true,"Salt - Rock, Course",mastercard
+941,Children|Comedy,Portulacaceae,false,false,Cake - French Pear Tart,jcb
+588,Adventure|Children|Comedy|Mystery,Leskeaceae,true,true,"Arctic Char - Fresh, Whole",jcb
+689,Comedy|Romance,Arthopyreniaceae,true,false,Pork - Kidney,laser
+196,Adventure|Animation|Children|Comedy,Arecaceae,false,true,"Mushroom - Morels, Dry",jcb
+125,Comedy|Crime,Rosaceae,true,true,Tomatoes - Hot House,americanexpress
+759,Drama|Romance|War,Verrucariaceae,true,false,Olives - Morracan Dired,switch
+701,Drama,Asteraceae,false,true,Sugar - Splenda Sweetener,americanexpress
+482,Comedy|Drama,Fabaceae,true,false,Salt And Pepper Mix - Black,americanexpress
+850,Comedy|Western,Asteraceae,false,true,"Wine - Red, Cabernet Sauvignon",mastercard
+895,Drama|Romance|Thriller,Fabaceae,true,true,Juice Peach Nectar,switch
+635,Drama,Poaceae,true,false,Dawn Professionl Pot And Pan,diners-club-enroute
+336,Comedy,Cyperaceae,true,false,Bread - Crusty Italian Poly,solo
+558,Comedy,Callitrichaceae,true,true,Chocolate - Sugar Free Semi Choc,jcb
+243,Crime|Drama|Thriller,Papaveraceae,false,false,Soup - Campbells Asian Noodle,jcb
+255,Drama,Polemoniaceae,false,true,"Soup - Knorr, Classic Can. Chili",jcb
+447,Drama|Thriller,Apocynaceae,false,false,Nutmeg - Ground,diners-club-carte-blanche
+273,Drama|Sci-Fi,Juncaceae,false,false,Cheese - St. Andre,jcb
+250,Documentary,Asteraceae,true,false,Rice Wine - Aji Mirin,jcb
+668,Drama,Rosaceae,true,true,Cheese Cloth,maestro
+979,Drama|Romance,Fabaceae,false,true,Oysters - Smoked,instapayment
+313,Drama|War,Mniaceae,true,false,Corn Kernels - Frozen,visa
+511,Adventure|Children,Ranunculaceae,true,false,Chocolate Bar - Coffee Crisp,bankcard
+335,Comedy|Crime,Podocarpaceae,true,true,"Mop Head - Cotton, 24 Oz",switch
+20,Children|Comedy|Fantasy,Cyperaceae,false,true,"Wine - White, Riesling, Henry Of",americanexpress
+640,Drama,Asteraceae,true,true,"Trout - Rainbow, Frozen",jcb
+537,Comedy|Romance,Rutaceae,false,true,"Lamb - Leg, Diced",laser
+543,Drama,Pinaceae,true,false,"Lamb - Pieces, Diced",instapayment
+33,Documentary,Orobanchaceae,true,true,"Pepper - Chipotle, Canned",diners-club-us-ca
+252,Comedy,Rhamnaceae,true,true,"Roe - Lump Fish, Black",jcb
+85,Drama,Orchidaceae,false,true,Bread - Rye,laser
+706,Comedy,Brassicaceae,true,false,Table Cloth 54x54 White,china-unionpay
+437,Action|Drama|Fantasy,Asteraceae,false,true,"Bag - Bread, White, Plain",jcb
+843,Animation|Children|Fantasy,Poaceae,false,true,Wild Boar - Tenderloin,mastercard
+589,Drama|War,Celastraceae,false,false,Wine - Ice Wine,laser
+313,Comedy|Romance,Rosaceae,false,true,Pants Custom Dry Clean,jcb
+873,Adventure|Crime|Drama,Cistaceae,true,false,Oil - Grapeseed Oil,mastercard
+627,Action|Drama,Euphorbiaceae,true,false,Coffee - Almond Amaretto,china-unionpay
+824,Crime|Drama|Film-Noir|Romance,Fabaceae,false,true,Oysters - Smoked,diners-club-carte-blanche
+620,Crime|Thriller|Western,Fabaceae,false,true,"Wine - Bourgogne 2002, La",bankcard
+281,Documentary,Fabaceae,true,true,Syrup - Chocolate,jcb
+427,Adventure|Comedy|Crime|Drama|Fantasy|Mystery|Sci-Fi|Thriller,Liliaceae,false,true,"Juice - V8, Tomato",jcb
+339,Crime|Drama|Horror,Cactaceae,true,false,"Soup - Knorr, Veg / Beef",instapayment
+750,Comedy|Drama,Oleaceae,true,false,Chips Potato Swt Chilli Sour,visa-electron
+894,Comedy,Brassicaceae,false,true,Juice - Happy Planet,jcb
+6,Documentary,Lecanoraceae,true,true,Sugar - Invert,bankcard
+223,Romance|Western,Pteridaceae,false,false,"Crab - Blue, Frozen",diners-club-enroute
+309,Drama|Romance,Liliaceae,false,true,Bagel - Ched Chs Presliced,diners-club-enroute
+675,Drama|Mystery|Sci-Fi,Gesneriaceae,false,false,Pastry - Choclate Baked,jcb
+908,Action|Horror|Thriller,Cyperaceae,false,true,Island Oasis - Sweet And Sour Mix,mastercard
+873,Drama|Fantasy,Liliaceae,false,true,Muffin - Carrot Individual Wrap,jcb
+483,Action,Dryopteridaceae,false,false,Pur Value,jcb
+73,Drama,Euphorbiaceae,false,false,Turkey - Oven Roast Breast,jcb
+701,Drama|Mystery|Thriller,Asteraceae,true,true,Butter Sweet,jcb
+976,Documentary,Asteraceae,false,true,Cups 10oz Trans,jcb
+689,Documentary,Brassicaceae,true,false,Garam Marsala,diners-club-carte-blanche
+455,Comedy|Romance,Fabaceae,true,true,Potatoes - Parissienne,bankcard
+918,Drama|Romance,Tamaricaceae,true,false,Wine - Delicato Merlot,mastercard
+993,Comedy,Crassulaceae,true,false,Bread - 10 Grain,jcb
+802,Drama,Cactaceae,true,false,Beans - Yellow,jcb
+689,Action|Drama|Thriller,Apocynaceae,true,true,Calypso - Lemonade,jcb
+480,Comedy|Romance,Scrophulariaceae,false,true,Cumin - Whole,instapayment
+901,Documentary|Drama,Aizoaceae,true,false,Bacardi Mojito,visa
+711,Drama,Brassicaceae,true,true,"Soup - Cream Of Broccoli, Dry",americanexpress
+874,Drama|War,Apiaceae,false,false,Jolt Cola,maestro
+500,Drama|Romance,Urticaceae,false,true,"Juice - Clamato, 341 Ml",visa-electron
+376,Documentary|Musical,Pottiaceae,true,false,Pork Ham Prager,diners-club-carte-blanche
+14,Drama|Romance|War,Asteraceae,false,true,Bread - Hamburger Buns,mastercard
+625,Adventure|Children|Comedy|Fantasy,Gesneriaceae,true,true,Sambuca - Ramazzotti,jcb
+908,Animation|Fantasy,Poaceae,false,true,"Beans - Black Bean, Dry",diners-club-carte-blanche
+370,Comedy,Asteraceae,true,true,Pear - Packum,jcb
+855,Drama,Lauraceae,true,false,Papadam,americanexpress
+670,Action|Drama|Thriller,Asteraceae,true,true,Eggroll,diners-club-carte-blanche
+521,Horror|Thriller,Hamamelidaceae,false,true,"Chicken - Leg, Fresh",jcb
+758,Drama,Rosaceae,true,true,Juice - Ocean Spray Cranberry,diners-club-international
+906,Drama|Thriller,Isoetaceae,true,false,Parsley - Dried,americanexpress
+767,Drama|Romance,Cyperaceae,true,false,Eggplant - Baby,jcb
+754,Action|Comedy,Brassicaceae,true,false,Sauce - Hoisin,switch
+978,Horror,Boraginaceae,true,false,"Bread - Rolls, Rye",diners-club-enroute
+444,Sci-Fi|Thriller|IMAX,Lamiaceae,false,true,Pears - Fiorelle,jcb
+47,Action|Adventure|Thriller,Rosaceae,true,false,"Coffee - Colombian, Portioned",solo
+325,Drama,Saxifragaceae,true,false,Wine - Chianti Classico Riserva,visa-electron
+368,Western,Cactaceae,true,false,Bread - Sour Sticks With Onion,visa
+981,Adventure|Drama|Romance,Pottiaceae,true,false,Truffle Cups - Brown,diners-club-enroute
+17,Drama,Asclepiadaceae,true,false,Cocoa Butter,mastercard
+938,Drama,Physciaceae,true,false,"Pail - 4l White, With Handle",jcb
+619,Action|Crime|Mystery|Thriller,Liliaceae,false,true,"Bread - Bagels, Mini",mastercard
+835,Drama,Fabaceae,true,false,Bread Base - Toscano,switch
+713,Drama|War,Lichenotheliaceae,false,false,Bread Foccacia Whole,jcb
+904,Drama,Poaceae,false,true,Nougat - Paste / Cream,americanexpress
+175,Comedy|Drama,Ranunculaceae,false,false,Beans - Wax,instapayment
+842,Action|Adventure|Crime|Drama,Parkeriaceae,true,true,"Basil - Dry, Rubbed",jcb
+489,Crime|Drama|Film-Noir|Thriller,Asteraceae,false,false,Chef Hat 20cm,bankcard
+174,Horror|Sci-Fi,Asteraceae,true,true,Tea - Orange Pekoe,jcb
+292,Comedy,Cladoniaceae,true,true,Swiss Chard,jcb
+83,Thriller,Pteridaceae,false,false,Tea - Earl Grey,jcb
+387,Romance|Western,Orchidaceae,true,true,"Nut - Pistachio, Shelled",jcb
+88,Drama|Romance,Apiaceae,true,true,Cake - Cheese Cake 9 Inch,mastercard
+684,Drama,Rhizocarpaceae,true,false,Onions - Cooking,americanexpress
+937,Drama,Rutaceae,true,false,Wine - Coteaux Du Tricastin Ac,jcb
+735,Drama,Fabaceae,true,false,"Wine - Red, Lurton Merlot De",laser
+383,Drama|Romance,Liliaceae,false,false,Bagel - Sesame Seed Presliced,americanexpress
+768,Documentary,Poaceae,false,true,Island Oasis - Pina Colada,americanexpress
+369,Documentary,Orobanchaceae,true,true,Extract - Lemon,jcb
+124,Documentary,Polygonaceae,true,false,"Pasta - Lasagna Noodle, Frozen",switch
+755,Comedy|Drama,Nyctaginaceae,true,true,"Garlic - Primerba, Paste",switch
+874,Animation|Children|Comedy,Campanulaceae,false,false,French Kiss Vanilla,switch
+584,Horror,Rosaceae,true,false,Beef - Tenderloin,switch
+890,Documentary,Poaceae,false,true,"Corn - Cream, Canned",mastercard
+643,Comedy|Romance,Liliaceae,true,true,Buffalo - Striploin,jcb
+152,Action|Sci-Fi|Thriller,Fabaceae,true,false,Bag Stand,visa
+436,Animation|Drama|Romance|Sci-Fi,Apiaceae,true,false,Country Roll,jcb
+408,Drama,Dryopteridaceae,true,true,Cup Translucent 9 Oz,jcb
+22,Drama|War,Polygonaceae,false,true,Apron,jcb
+959,Drama,Scrophulariaceae,false,true,Longos - Lasagna Beef,jcb
+446,Comedy|Romance,Hydrophyllaceae,true,true,Veal - Striploin,maestro
+963,Comedy|Drama,Scrophulariaceae,false,true,Bagel - Sesame Seed Presliced,diners-club-us-ca
+332,Documentary|Drama,Convolvulaceae,false,true,Muffin Carrot - Individual,instapayment
+272,Comedy|Drama,Physciaceae,true,false,"Placemat - Scallop, White",jcb
+303,Drama|Romance|War,Selaginellaceae,true,false,"Juice - Clam, 46 Oz",jcb
+995,Documentary|Musical,Ditrichaceae,true,true,Otomegusa Dashi Konbu,bankcard
+863,Horror|Mystery,Fabaceae,false,false,Bread - Pumpernickel,jcb
+668,Adventure|Fantasy|Sci-Fi,Caricaceae,false,false,Tea - Green,jcb
+687,Action|Drama|War,Gesneriaceae,false,false,Mackerel Whole Fresh,jcb
+571,Drama|Musical,Caryophyllaceae,true,true,Egg Patty Fried,maestro
+334,Crime|Drama,Hypnaceae,true,false,Ice Cream - Fudge Bars,maestro
+144,Drama|Romance,Cyperaceae,true,true,Vegetable - Base,americanexpress
+73,Drama,Melastomataceae,true,true,Corn Shoots,jcb
+262,Comedy|Horror|Musical,Iridaceae,false,false,Jameson - Irish Whiskey,jcb
+393,Documentary,Asteraceae,false,false,Amarula Cream,visa
+47,Comedy,Boraginaceae,true,false,Cumin - Ground,instapayment
+15,Drama|Romance,Asteraceae,false,true,Crab Meat Claw Pasteurise,maestro
+498,Drama|Mystery,Chenopodiaceae,true,true,Dill Weed - Fresh,switch
+113,Action|Drama,Asteraceae,true,false,Watercress,china-unionpay
+251,Sci-Fi,Potamogetonaceae,true,false,Rosemary - Fresh,jcb
+924,Drama|War,Iridaceae,true,false,Tea - Herbal I Love Lemon,mastercard
+377,Animation|Documentary,Asteraceae,true,true,Oyster - In Shell,americanexpress
+912,Children|Comedy,Asteraceae,true,true,Pie Filling - Cherry,diners-club-enroute
+326,Documentary,Chenopodiaceae,false,false,Pork - Back Ribs,china-unionpay
+450,Drama|Romance|Thriller,Myricaceae,false,true,Sprouts - Brussel,jcb
+979,Comedy|Romance,Bombacaceae,true,true,Dill Weed - Fresh,jcb
+316,Horror,Asteraceae,true,false,Milk - Skim,bankcard
+351,Comedy,Roccellaceae,false,false,Fireball Whisky,china-unionpay
+224,Documentary,Poaceae,true,false,Icecream - Dibs,visa
+946,Fantasy|Sci-Fi,Asteraceae,true,false,"Vermouth - White, Cinzano",mastercard
+39,Documentary,Pteridaceae,true,true,Vol Au Vents,diners-club-carte-blanche
+457,Crime|Drama|Thriller,Poaceae,true,true,Wine - Rioja Campo Viejo,diners-club-enroute
+226,Adventure|Comedy|Crime|Drama,Apiaceae,true,true,Cup - 4oz Translucent,jcb
+376,Documentary,Rosaceae,true,true,Oil - Sesame,diners-club-carte-blanche
+33,Comedy|Drama,Asteraceae,false,true,Broom And Broom Rack White,jcb
+702,Musical,Scrophulariaceae,false,false,Sauce - Marinara,china-unionpay
+719,Drama,Cyperaceae,true,false,Coffee - 10oz Cup 92961,jcb
+705,Comedy|Drama|Romance,Asclepiadaceae,false,false,Lettuce - Escarole,china-unionpay
+563,Drama|Mystery|Thriller,Pterigynandraceae,true,true,Energy Drink Bawls,jcb
+656,Action,Rosaceae,false,true,Glass Clear 8 Oz,diners-club-enroute
+376,Comedy|Romance,Rutaceae,true,true,"Stock - Chicken, White",diners-club-international
+422,Drama|Romance,Scrophulariaceae,true,true,Sesame Seed,jcb
+274,Comedy|Drama|Romance,Ericaceae,false,true,Soup - French Onion,jcb
+603,Adventure|Crime|Thriller,Euphorbiaceae,false,false,Grapes - Black,diners-club-carte-blanche
+40,Fantasy|Horror,Lichinaceae,false,false,Broom And Brush Rack Black,jcb
+532,Crime|Horror|Mystery|Thriller,Blechnaceae,true,false,Cape Capensis - Fillet,bankcard
+334,Comedy|Drama|Romance,Araliaceae,false,false,Goat - Whole Cut,jcb
+437,Drama|Thriller,Melastomataceae,true,false,"Pork - Ham, Virginia",diners-club-carte-blanche
+875,Action|Animation|Mystery|Sci-Fi,Scrophulariaceae,false,true,"Wine - White, Pelee Island",jcb
+359,Comedy|Drama,Fabaceae,false,true,Asparagus - Frozen,jcb
+904,Comedy,Sphagnaceae,true,false,Wine - Maipo Valle Cabernet,diners-club-carte-blanche
+673,Comedy,Fabaceae,true,true,"Tart Shells - Savory, 2",jcb
+162,Horror,Orchidaceae,true,false,Squash - Pepper,instapayment
+827,Comedy,Grimmiaceae,false,true,Bagel - Everything Presliced,visa
+461,Action|Adventure|Thriller,Physciaceae,false,true,Wine - Vidal Icewine Magnotta,jcb
+166,Drama|Musical,Poaceae,false,true,Flower - Commercial Bronze,mastercard
+3,Comedy|Fantasy|Horror,Liliaceae,true,false,Soup - Campbells Mushroom,visa-electron
+819,Comedy,Pleuroziopsidaceae,false,false,Cheese - Stilton,jcb
+66,Drama,Cyperaceae,false,true,Blouse / Shirt / Sweater,jcb
+359,Documentary,Asteraceae,true,false,Tuna - Salad Premix,jcb
+648,Fantasy|Horror,Rubiaceae,false,false,Cranberries - Frozen,jcb
+992,Drama|Horror|Mystery|Thriller,Polygonaceae,true,false,Scallops 60/80 Iqf,jcb
+492,Drama,Ranunculaceae,true,true,Lemons,americanexpress
+853,Action|Crime|Drama|Thriller,Ceratophyllaceae,false,false,"Asparagus - White, Fresh",diners-club-carte-blanche
+950,Mystery|Thriller,Styracaceae,false,true,"Beef - Outside, Round",jcb
+608,Crime|Drama,Polygonaceae,false,false,Appetizer - Cheese Bites,jcb
+379,Drama|Romance,Fabaceae,false,false,Orange - Tangerine,americanexpress
+850,Comedy|Drama,Viscaceae,true,false,"Mushroom - Chantrelle, Fresh",mastercard
+977,Musical|Romance,Myrtaceae,false,true,Wine - Carmenere Casillero Del,solo
+542,Documentary,Polytrichaceae,true,false,"Juice - Apple, 500 Ml",jcb
+555,Animation|Comedy|Fantasy,Asteraceae,true,true,"Syrup - Monin, Amaretta",jcb
+930,Mystery|Thriller,Verrucariaceae,false,true,Fennel - Seeds,jcb
+197,Action|Animation|Comedy,Apiaceae,true,false,"Shrimp - 16/20, Peeled Deviened",jcb
+890,Thriller,Asteraceae,true,false,"Chilli Paste, Hot Sambal Oelek",solo
+941,Drama|Western,Cyperaceae,false,false,Cleaner - Bleach,solo
+522,Drama,Cyperaceae,true,true,Chinese Foods - Plain Fried Rice,maestro
+692,Drama|Horror|Thriller,Liliaceae,true,true,Lamb Rack Frenched Australian,jcb
+36,Comedy,Crassulaceae,false,true,"Wine - Bourgogne 2002, La",laser
+964,Adventure|Comedy,Juncaceae,true,true,Calypso - Black Cherry Lemonade,jcb
+459,Comedy|Drama|War,Celastraceae,false,true,Venison - Racks Frenched,mastercard
+940,Adventure|Comedy|Drama,Collemataceae,false,true,"Cake Circle, Foil, Scallop",jcb
+630,Drama,Hydrophyllaceae,true,true,Butcher Twine 4r,mastercard
+35,Children|Comedy|Sci-Fi,Bombacaceae,false,false,"C - Plus, Orange",mastercard
+816,Action|Drama|Thriller,Cyperaceae,true,false,Bread Crumbs - Japanese Style,jcb
+711,Animation,Cyperaceae,false,false,Jam - Apricot,jcb
+472,Comedy|Musical|Romance,Euphorbiaceae,false,false,Curry Paste - Madras,switch
+105,Thriller,Sphinctrinaceae,true,true,Chicken Giblets,americanexpress
+326,Action|Comedy,Cyatheaceae,false,true,"Cup - 3.5oz, Foam",maestro
+721,Drama|Thriller,Potamogetonaceae,false,false,Soup Campbells Split Pea And Ham,jcb
+266,Comedy|Musical|Romance,Poaceae,true,true,Teriyaki Sauce,jcb
+514,Comedy|Drama|Romance,Liliaceae,false,true,Truffle - Whole Black Peeled,laser
+175,Action|Crime|Drama,Fabaceae,false,false,"Pasta - Tortellini, Fresh",mastercard
+917,Documentary,Solanaceae,false,false,Tea - Black Currant,solo
+13,Drama|Mystery|War,Hypnaceae,false,true,Steampan - Lid For Half Size,jcb
+454,Drama,Asteraceae,true,false,Carroway Seed,jcb
+831,Documentary,Fagaceae,false,true,Alize Sunset,diners-club-us-ca
+241,Animation|Children|Comedy|Drama|Fantasy,Rutaceae,false,true,"Wine - White, Pinot Grigio",jcb
+988,Drama|Thriller,Polemoniaceae,false,false,Bread - French Stick,jcb
+720,Action|Animation,Poaceae,false,false,Creme De Menthe Green,visa
+814,Comedy,Agavaceae,false,false,Lettuce - Frisee,visa-electron
+809,Documentary,Chenopodiaceae,true,true,Pastry - Banana Tea Loaf,jcb
+932,Drama|Romance,Liliaceae,false,true,"Basil - Primerba, Paste",jcb
+496,Drama,Stereocaulaceae,false,true,Lemonade - Pineapple Passion,jcb
+475,Action|Drama|War,Fabaceae,false,false,Flour - Cake,jcb
+177,Drama,Oleaceae,true,false,"Cheese - Mozzarella, Buffalo",jcb
+186,Horror|Thriller,Pinaceae,false,true,"Wine - Red, Black Opal Shiraz",diners-club-carte-blanche
+263,Comedy|Drama,Asteraceae,false,false,Cookies - Fortune,jcb
+450,Comedy,Saxifragaceae,true,false,Juice - Ocean Spray Kiwi,jcb
+970,Comedy,Onagraceae,true,true,Knife Plastic - White,bankcard
+148,Drama,Polemoniaceae,false,false,Butter - Pod,jcb
+43,Drama,Ranunculaceae,false,true,"Cup - 3.5oz, Foam",diners-club-enroute
+318,Comedy|Drama|Romance,Agavaceae,false,false,Beef - Texas Style Burger,china-unionpay
+594,Documentary|Drama|War,Apocynaceae,false,false,Beer - Sleemans Cream Ale,maestro
+933,Adventure|Drama,Arecaceae,false,true,Creme De Banane - Marie,visa
+588,Horror,Verrucariaceae,true,false,Oil - Olive Bertolli,jcb
+519,Documentary,Scrophulariaceae,false,false,Crawfish,jcb
+712,Drama,Cladoniaceae,false,false,"Soup - Knorr, Classic Can. Chili",jcb
+625,Action,Hydrophyllaceae,true,true,Compound - Raspberry,bankcard
+325,Action|Horror|Sci-Fi|Western,Nyctaginaceae,true,true,Beer - Creemore,china-unionpay
+156,Comedy,Hydrophyllaceae,false,true,Chickensplit Half,visa
+291,Documentary,Scrophulariaceae,false,false,"Extract - Vanilla,artificial",jcb
+559,Comedy|War,Betulaceae,false,false,Lamb Leg - Bone - In Nz,diners-club-carte-blanche
+56,Comedy,Chenopodiaceae,true,true,Glaze - Clear,jcb
+535,Comedy,Malvaceae,false,true,Roe - Flying Fish,diners-club-enroute
+931,Comedy,Clusiaceae,true,true,Cookie Choc,visa
+207,War|Western,Campanulaceae,true,false,Dikon,mastercard
+586,Crime|Thriller,Commelinaceae,true,false,Flower - Leather Leaf Fern,visa-electron
+261,Drama,Lobariaceae,false,true,Fuji Apples,jcb
+23,Drama,Bruchiaceae,false,true,Pork - Sausage Casing,maestro
+606,Comedy|Drama,Polypodiaceae,true,false,"Rum - White, Gg White",diners-club-carte-blanche
+837,Documentary,Dicranaceae,false,true,"Wine - Saint - Bris 2002, Sauv",bankcard
+174,Action|Horror,Salicaceae,false,false,Paper Towel Touchless,maestro
+973,Western,Boraginaceae,false,true,"Pork - Tenderloin, Fresh",diners-club-enroute
+917,Adventure|Drama|War,Oleaceae,true,true,Bread Base - Goodhearth,americanexpress
+932,Action|Adventure|Drama,Nephromataceae,true,true,Lobster - Base,switch
+509,Drama,Rhamnaceae,true,true,Pears - Anjou,visa
+974,Drama|Romance,Poaceae,true,true,Fruit Mix - Light,americanexpress
+569,Western,Polygonaceae,true,false,"Soup - Knorr, Chicken Noodle",jcb
+341,Drama,Malvaceae,true,false,Wine - Puligny Montrachet A.,jcb
+93,Documentary,Poaceae,true,false,"Pork - Ham, Virginia",jcb
+118,Drama|Romance,Asteraceae,true,false,Pur Source,jcb
+719,Action|Adventure|Crime|Drama,Cyperaceae,true,false,Pork - Inside,americanexpress
+205,Comedy|War,Lamiaceae,false,false,Chef Hat 20cm,switch
+276,Comedy|Drama,Fabaceae,true,true,"Wine - Magnotta, Merlot Sr Vqa",solo
+637,Drama|Romance,Pterobryaceae,false,true,"Juice - Apple, 1.36l",switch
+92,Documentary,Caryophyllaceae,true,true,Cookie Choc,maestro
+955,Children|Comedy,Poaceae,false,true,Pastry - Trippleberry Muffin - Mini,americanexpress
+219,Comedy|Drama,Dicranaceae,true,true,"Red Snapper - Fillet, Skin On",jcb
+325,Comedy|Documentary,Calycanthaceae,false,true,Sugar - Brown,china-unionpay
+63,Comedy|Romance,Salicaceae,true,false,Cake Slab,visa-electron
+849,Comedy|Horror|Sci-Fi|Thriller,Rhamnaceae,true,false,Plaintain,jcb
+782,Animation|War,Polygonaceae,false,false,Filo Dough,jcb
+916,Comedy|Thriller,Olacaceae,false,false,Wine - Saint Emilion Calvet,jcb
+99,Adventure|Animation|Children|Drama|Sci-Fi,Cyperaceae,true,false,Soup Campbells - Italian Wedding,maestro
+204,Comedy,Fabaceae,true,false,"Cheese - Woolwich Goat, Log",jcb
+952,Comedy|Drama,Fabaceae,true,false,Cape Capensis - Fillet,jcb
+951,Drama|Romance,Pteridaceae,true,false,Spring Roll Veg Mini,jcb
+588,Adventure,Asteraceae,false,false,"Wine - Cahors Ac 2000, Clos",americanexpress
+573,Drama,Parmeliaceae,false,false,Honey - Lavender,jcb
+451,Action|Adventure|Crime|Thriller,Cyperaceae,true,true,Beef - Kobe Striploin,jcb
+505,Adventure,Fabaceae,false,true,"Turkey - Breast, Double",jcb
+642,Drama|Thriller,Cyperaceae,true,false,Parsley Italian - Fresh,jcb
+561,Adventure|Drama,Geraniaceae,true,false,Langers - Ruby Red Grapfruit,bankcard
+603,Comedy|Musical,Cyperaceae,true,true,"Chicken - Diced, Cooked",americanexpress
+558,Action|Drama|Thriller|War,Verbenaceae,false,false,Melon - Watermelon Yellow,diners-club-carte-blanche
+255,Comedy,Asteraceae,true,false,Energy Drink,mastercard
+738,Comedy,Psoraceae,true,true,Coffee - Decaffeinato Coffee,jcb
+836,Children|Comedy,Orchidaceae,true,false,Bagelers - Cinn / Brown,jcb
+389,Action|Crime|Thriller,Rosaceae,false,false,Coffee - French Vanilla Frothy,americanexpress
+655,Drama,Cactaceae,true,false,Sauce - Hoisin,diners-club-carte-blanche
+420,Drama|Romance,Andreaeaceae,true,false,Cod - Fillets,mastercard
+636,Drama|War,Lycopodiaceae,false,false,Orange Roughy 4/6 Oz,jcb
+588,Drama,Caprifoliaceae,false,true,Tomatillo,americanexpress
+368,Horror,Cyperaceae,false,false,Haggis,jcb
+321,Comedy|Drama|Romance,Amaranthaceae,false,false,Sloe Gin - Mcguinness,diners-club-enroute
+245,Crime|Drama,Juncaceae,true,false,"Nut - Chestnuts, Whole",solo
+627,Comedy|Drama,Asteraceae,true,false,Cookies - Amaretto,jcb
+851,Drama|Romance,Poaceae,true,false,Cheese - Comtomme,americanexpress
+118,Drama,Fabaceae,false,true,Food Colouring - Orange,jcb
+480,Drama,Cactaceae,false,true,Salmon - Canned,jcb
+282,Drama,Fabaceae,true,false,Wine - Vineland Estate Semi - Dry,diners-club-us-ca
+101,Comedy,Loasaceae,true,true,Shortbread - Cookie Crumbs,jcb
+476,Drama,Fabaceae,false,true,Scotch - Queen Anne,diners-club-carte-blanche

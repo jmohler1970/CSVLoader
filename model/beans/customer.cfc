@@ -1,4 +1,4 @@
-<cfscript>
+
 component persistent="true" accessors="true" output="false" {
 
 	property name="id" fieldtype="id" generator="identity";
@@ -19,5 +19,4 @@ component persistent="true" accessors="true" output="false" {
 	property name="app_name";
 
 	property name="CreateDate" update="false" insert="false";
-	}
-</cfscript>
+}

@@ -23,13 +23,22 @@ CREATE TABLE [dbo].[Customer](
 	[app_name] [varchar](20) NULL,
 	[CreateDate] [smalldatetime] NOT NULL CONSTRAINT [DF_CSVLoader_Customer_CreateDate] DEFAULT GETDATE()
 ) ON [PRIMARY]
-WITH (DATA_COMPRESSION = PAGE)
 GO
 
-/*
-INSERT INTO Customer
-VALUES (123, 'Bob', 'Jones', '1000 W. Main St.', 'California City', 'CA', '99999', 'bob@email.erg', '0', 'PST', '127.0.0.1', 'Google', getDate())
-*/
+
+CREATE TABLE [dbo].[Interests](
+	[id] [int] NOT NULL identity(1,1) primary key,
+	[customer_id] [int] NOT NULL,	
+	[genre] [varchar](50) NOT NULL,
+	[plant] [varchar](50) NOT NULL,
+	[active] [bit] NOT NULL,
+	[refunded] [bit] NOT NULL,
+	[product] [varchar](50) NOT NULL,
+	[cctype] [varchar](50) NOT NULL,
+	[CreateDate] [smalldatetime] NOT NULL CONSTRAINT [DF_CSVLoader_Interests_CreateDate] DEFAULT GETDATE()
+) ON [PRIMARY]
+GO
+
 
 
 CREATE LOGIN [CSVLoader_user] WITH PASSWORD='CSVLoader_user', DEFAULT_DATABASE=[CSVLoader], CHECK_EXPIRATION=OFF, CHECK_POLICY=OFF

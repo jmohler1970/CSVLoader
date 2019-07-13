@@ -55,7 +55,7 @@
 				</li>
 			
 				<li class="nav-item">
-					<a class="nav-link" href="/index.cfm/main/load">Import</a>
+					<a class="nav-link <cfif getItem() EQ 'load'>active</cfif>" href="/index.cfm/main/load">Import</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="/index.cfm/main/reports">Reports</a>
