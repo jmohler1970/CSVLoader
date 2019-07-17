@@ -46,17 +46,27 @@ array function doProcessStruct(required string fileToProcess, array fixedLen = [
 	while(bContinue)	{
 		var myLine = this.getNextLineTokens();
 
-		if(myLine.isEmpty())	{
+		if(myLine[1] == "EOF")	{
 			return aResult;
 		}
 
-		var colcount = 0;
-		var stLine = [:];
+		if(myLine[1] != "QUO")	{
 
-		for (col in header)	{
-			colcount++;
-			stLine[col] = myLine[colcount];
+			var colcount = 0;
+			var stLine = [:];
+
+			for (col in header)	{
+				colcount++;
+				try	{
+					stLine[col] = myLine[colcount];
+					}
+				catch (any e) {
+
+	//				writedump(e);
+				}	
+			}
 		}
+
 
 
 		aResult.append(stLine);
@@ -99,10 +109,10 @@ boolean function setup(required string fileToProcess, array fixedLen = []) outpu
 	}
 
 
-array function getNextLineTokens() output="false"	{
+array function getNextLineTokens() output="false" {
 
 	if(FileisEOF(variables.fileObj)) {
-		return [];
+		return ["EOF"];
 		}
 
 	if(variables.delimiter == "fixed")	{
@@ -117,7 +127,13 @@ array function getNextLineTokens() output="false"	{
 		return local.result;
 		} // end fixed
 
-	return FileReadLine(variables.fileObj).ListToArray(variables.delimiter);
+	var line = FileReadLine(variables.fileObj);
+
+	if (line CONTAINS '"')	{
+		return ["QUO"]; // we just can't handle these reliably
+	}
+
+	return line.ListToArray(variables.delimiter, true);
 	}
 
 }

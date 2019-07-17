@@ -8,7 +8,7 @@ this.applicationManagement 	= true;
 this.ormenabled = true;
 this.datasource = "CSVLoader"; // Reddog1
 this.invokeImplicitAccessor = true;
-
+this.enableNullSupport = true;
 
 this.serialization.preservecaseforstructkey = true;
 this.serialization.serializeQueryAs = "struct";

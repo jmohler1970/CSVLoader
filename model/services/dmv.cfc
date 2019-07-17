@@ -1,19 +1,20 @@
 component 	{
 
 
+
 query function getTblStorage()	{
 
 	var qryResult = queryExecute("
-		SELECT 
+		SELECT
 			s.Name AS SchemaName,
 			t.NAME AS TableName,
 			p.partition_number AS Partition,
 			p.rows AS RowCounts,
 			p.data_compression_desc AS Compression,
 	
-			SUM(a.total_pages) * 8 AS TotalSpace, 
-			SUM(a.used_pages) * 8 AS UsedSpace, 
-			(SUM(a.total_pages) - SUM(a.used_pages)) * 8 AS UnusedSpace,
+			SUM(a.total_pages)  AS TotalSpace, 
+			SUM(a.used_pages)  AS UsedSpace, 
+			(SUM(a.total_pages) - SUM(a.used_pages)) AS UnusedSpace,
 			0 AS EstNone,
 			0 AS EstRow,
 			0 AS EstPage 
@@ -39,25 +40,63 @@ query function getTblStorage()	{
 	");
 
 	for (var row = 1; row <= qryResult.recordCount; row++)	{
-		qryResult.setCell("EstNone", getEstStorage(qryResult.TableName[row], 'None'));
-		qryResult.setCell("EstRow",  getEstStorage(qryResult.TableName[row], 'Row' ));
-		qryResult.setCell("EstPage", getEstStorage(qryResult.TableName[row], 'Page'));
+		qryResult.setCell("EstNone", getEstStorage(qryResult.TableName[row], 'None'), row);
+		qryResult.setCell("EstRow",  getEstStorage(qryResult.TableName[row], 'Row' ), row);
+		qryResult.setCell("EstPage", getEstStorage(qryResult.TableName[row], 'Page'), row);
 	}
 
-	return qryResult
+	return qryResult;
 }
 
 private string function getEstStorage(required string tableName, required string mode) hint="don't use this in producton"	{
 
 
-	return queryExecute("
-		EXEC sp_estimate_data_compression_savings 'dbo', ?, NULL, NULL, ?; 
-		",
-		[arguments.tableName, arguments.mode]
-		)['SIZE_WITH_REQUESTED_COMPRESSION_SETTING(KB)'][1];
+	try {
+		return queryExecute("
+			EXEC sp_estimate_data_compression_savings 'dbo', ?, NULL, NULL, ?; 
+			",
+			[arguments.tableName, arguments.mode]
+			)['SIZE_WITH_REQUESTED_COMPRESSION_SETTING(KB)'][1] / 8;
+	}
+	catch (any e) {
+		return 0;
+	}
 
 }
 
+
+function setStorage(required string tableName, required string mode)	{
+
+	// Don't use this in a production environment
+	queryExecute("
+		ALTER TABLE dbo.#arguments.tableName# REBUILD PARTITION = ALL  
+		WITH (DATA_COMPRESSION = #arguments.mode#);
+		");
+
+}
+
+
+function cleanStorage(required string tableName)	{
+	
+	// Don't use this in a production environment
+	queryExecute("
+		DBCC CLEANTABLE (CSVLoader, 'dbo.#arguments.tableName#')
+		");
+
+	queryExecute("
+		DBCC SHRINKDATABASE (CSVLoader, 10);
+		");	
+
+}
+
+function truncTable(required string tableName)	{
+	
+	// Don't use this in a production environment
+	queryExecute("
+		TRUNCATE TABLE dbo.#arguments.tableName#
+		");
+
+}
 
 
 } // end component

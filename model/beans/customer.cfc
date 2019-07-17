@@ -3,6 +3,8 @@ component persistent="true" accessors="true" output="false" {
 
 	property name="id" fieldtype="id" generator="identity";
 
+	property name="Interests" fieldtype="one-to-many" cfc="Interests" fkcolumn="customer_id" cascade="all";
+
 	property name="member_id";
 	property name="first_Name";
 	property name="last_Name";

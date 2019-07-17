@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-	<title>CSV Loader</title>
+	<title>Framework / 1CSV Loader</title>
 	<meta name="author" content="James Mohler" />
 	<meta name="description" content="Bootstrap tags for ColdFusion, a powerful tag libary that takes the best from Bootstrap for next-gen Front-end Enterprise Applications fast and easy supporting HTML5." />
 	<meta name="KEYWORDS" content="ColdFusion, bootstrap, framework, java, enterprise, server, faces, jquery, usability, next-gen, web, html5, easy, modern, well-designed, website, state-of-the-art" />
@@ -33,7 +33,7 @@
 	<div class="container">
 
 		<div class="jumbotron">
-			<h1 class="display-4">CSV Loader!</h1>
+			<h1 class="display-4">Framework/1</h1>
 			<p class="lead">This is a simple text extractor. It can do csv, tsv, pipes, and fixed. Give it a try.</p>
 			<hr>
 			<p>It uses cfc for file processing. Built on ColdFusion 2018.</p>
@@ -49,21 +49,20 @@
 		</button>
 		<div class="collapse navbar-collapse" id="navbarNav">
 			<ul class="navbar-nav">
-				
-				<li class="nav-item">
-					<a class="nav-link" href="/index.cfm">Home</a>
-				</li>
-			
-				<li class="nav-item">
-					<a class="nav-link <cfif getItem() EQ 'load'>active</cfif>" href="/index.cfm/main/load">Import</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="/index.cfm/main/reports">Reports</a>
+
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="fw1Dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						Framework/1
+					</a>
+					<div class="dropdown-menu" aria-labelledby="fw1Dropdown">
+						<a class="dropdown-item" href="/index.cfm">Intro</a>
+						<a class="dropdown-item" href="/index.cfm/main/fw1_part2">Services and Beans</a>
+					</div>
 				</li>
 
-			<li class="nav-item dropdown">
+				<li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						Bootstrap Alerts
+						Alerts
 					</a>
 					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 						<a class="dropdown-item" href="/index.cfm/main/bootstrap?alert=success">Success</a>
@@ -72,6 +71,18 @@
 						<a class="dropdown-item" href="/index.cfm/main/bootstrap?alert=info">Info</a>
 						<a class="dropdown-item" href="/index.cfm/main/bootstrap?alert=debug">Debug</a>
 					</div>
+				</li>
+
+				<li class="nav-item">
+					<a class="nav-link <cfif getItem() EQ 'load'>active</cfif>" href="/index.cfm/main/load">Import</a>
+				</li>
+
+				<li class="nav-item">
+					<a class="nav-link" href="/index.cfm/dmv/compress">Storage</a>
+				</li>
+
+				<li class="nav-item">
+					<a class="nav-link" href="/index.cfm/main/reports">Reports</a>
 				</li>
 
 				<li class="nav-item dropdown">
@@ -84,7 +95,6 @@
 						<a class="dropdown-item" href="/index.cfm/dmv/frag">Fragmented index</a>
 						<a class="dropdown-item" href="/index.cfm/dmv/slow">Slow Queries</a>
 						<a class="dropdown-item" href="/index.cfm/dmv/frag">Query Plan</a>
-						<a class="dropdown-item" href="/index.cfm/dmv/compress">Table Compression</a>
 					</div>
 				</li>
 
@@ -96,7 +106,7 @@
 
 			</div>
 
-			<form action="index.cfm" class="form-inline">
+			<form action="/index.cfm/main/reports" class="form-inline">
 				<cfoutput>
 				<input class="form-control mr-sm-2" name="search" type="search" placeholder="Search" value="#EncodeForHTMLAttribute(rc.search)#">
 				</cfoutput>
@@ -114,5 +124,7 @@
 		<cfoutput>#body.replacelist("~/", "/index.cfm/")#</cfoutput>
 
 	</div>
+
+	<p>&nbsp;</p>
 </body>
 </html>

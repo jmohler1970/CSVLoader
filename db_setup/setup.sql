@@ -29,13 +29,44 @@ GO
 CREATE TABLE [dbo].[Interests](
 	[id] [int] NOT NULL identity(1,1) primary key,
 	[customer_id] [int] NOT NULL,	
-	[genre] [varchar](50) NOT NULL,
+	[genre] [varchar](80) NOT NULL,
 	[plant] [varchar](50) NOT NULL,
 	[active] [bit] NOT NULL,
 	[refunded] [bit] NOT NULL,
-	[product] [varchar](50) NOT NULL,
+	[product] [varchar](80) NOT NULL,
 	[cctype] [varchar](50) NOT NULL,
 	[CreateDate] [smalldatetime] NOT NULL CONSTRAINT [DF_CSVLoader_Interests_CreateDate] DEFAULT GETDATE()
+) ON [PRIMARY]
+GO
+
+
+CREATE TABLE [dbo].[Plants](
+	[id] [int] NOT NULL identity(1,1) primary key,
+	[plant] [varchar](40) NOT NULL,
+	[plant_name] [varchar](255) NOT NULL,
+	[geography] [char](2) NOT NULL,
+	[notes] [varchar](max) NULL,
+	[rnotes] [varchar](max) NULL,
+	[studyyear] [int] NULL,
+	[color] [varchar](20) NOT NULL,
+	[reproduction] [varchar](10) NOT NULL,
+	[CreateDate] [smalldatetime] NOT NULL CONSTRAINT [DF_CSVLoader_Plants_CreateDate] DEFAULT GETDATE()
+) ON [PRIMARY]
+WITH (DATA_COMPRESSION = PAGE);
+GO
+
+
+CREATE TABLE [dbo].[Plants_Sparse](
+	[id] [int] NOT NULL identity(1,1) primary key,
+	[plant] [varchar](40) NOT NULL,
+	[plant_name] [varchar](255) NOT NULL,
+	[geography] [char](2) NOT NULL,
+	[notes] [varchar](max) SPARSE  NULL,
+	[rnotes] [varchar](max) SPARSE NULL,
+	[studyyear] [int] SPARSE NULL,
+	[color] [varchar](20) NOT NULL,
+	[reproduction] [varchar](10) NOT NULL,
+	[CreateDate] [smalldatetime] NOT NULL CONSTRAINT [DF_CSVLoader_Plants_Sparse_CreateDate] DEFAULT GETDATE()
 ) ON [PRIMARY]
 GO
 
@@ -43,6 +74,12 @@ GO
 
 CREATE LOGIN [CSVLoader_user] WITH PASSWORD='CSVLoader_user', DEFAULT_DATABASE=[CSVLoader], CHECK_EXPIRATION=OFF, CHECK_POLICY=OFF
 GO
+USE [Master]
+GO
+GRANT VIEW SERVER STATE TO CSVLoader_user
+GO
+
+
 USE [CSVLoader]
 GO
 CREATE USER [CSVLoader_user] FOR LOGIN [CSVLoader_user]
@@ -55,5 +92,12 @@ USE [CSVLoader]
 GO
 ALTER ROLE [db_datawriter] ADD MEMBER [CSVLoader_user]
 GO
+
+sp_addrolemember 'db_owner', 'CSVLoader_user'
+GO
+
+
+
+
 USE [CSVLoader]
 GO

@@ -9,7 +9,7 @@ property	textextractService;
 
 
 // can do searching too
-void function home(required struct rc)	{
+void function reports(required struct rc)	{
 
 
 	if (rc.search != "")	{
@@ -40,18 +40,18 @@ void function load(required struct rc)	{
 
 		rc.fileInfo = FileUpload(strPath, "csv", "text/*", "overwrite");
 
-		var csvdata = textextractService.doProcessStruct(strPath & rc.fileInfo.serverFile);
+		rc.csvdata = textextractService.doProcessStruct(strPath & rc.fileInfo.serverFile);
 
-		var iterations = RandRange(1, 100)
 
-		for (var data in csvdata)	{
+		for (var data in rc.csvdata)	{
+			if (data.keyexists("studyyear") && !isnumeric(data.studyyear))	{
+				data.studyyear = null;
+			}
+
 			EntitySave(EntityNew(rc.dbTable, data));
 		}
 
 	}
-
-
-	rc.recCount = ORMExecuteQuery("select count(*) from Customer")[1];
 }
 
 
