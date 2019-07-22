@@ -26,6 +26,40 @@ CREATE TABLE [dbo].[Customer](
 GO
 
 
+CREATE INDEX ix_createDate ON dbo.Customer (
+	CreateDate
+	)
+GO
+
+CREATE INDEX ix_createDate_compressed ON dbo.Customer (
+	CreateDate
+	)
+WITH (DATA_COMPRESSION = PAGE)
+GO
+
+CREATE INDEX ix_city ON dbo.Customer (
+	City
+	)
+GO
+
+CREATE INDEX ix_city_compressed ON dbo.Customer (
+	City
+	)
+WITH (DATA_COMPRESSION = PAGE)
+GO
+
+
+CREATE INDEX ix_color_createdate ON dbo.Customer (
+	City
+	)
+INCLUDE (
+	CreateDate
+	)	
+GO
+
+
+
+
 CREATE TABLE [dbo].[Interests](
 	[id] [int] NOT NULL identity(1,1) primary key,
 	[customer_id] [int] NOT NULL,	
@@ -37,6 +71,11 @@ CREATE TABLE [dbo].[Interests](
 	[cctype] [varchar](50) NOT NULL,
 	[CreateDate] [smalldatetime] NOT NULL CONSTRAINT [DF_CSVLoader_Interests_CreateDate] DEFAULT GETDATE()
 ) ON [PRIMARY]
+GO
+
+CREATE INDEX ix_genre ON dbo.Interests (
+	Genre
+	)
 GO
 
 
@@ -54,6 +93,8 @@ CREATE TABLE [dbo].[Plants](
 ) ON [PRIMARY]
 WITH (DATA_COMPRESSION = PAGE);
 GO
+
+
 
 
 CREATE TABLE [dbo].[Plants_Sparse](

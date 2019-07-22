@@ -2,8 +2,6 @@ component persistent="true" accessors="true" output="false" {
 
 	property name="id" fieldtype="id" generator="identity";
 
-	property name="Plants" fieldtype="one-to-many" cfc="Plants" mappedby="plant" fkcolumn="plant";
-
 	property name="customer_id";
 	property name="genre";
 	property name="plant";

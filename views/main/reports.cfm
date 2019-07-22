@@ -77,13 +77,20 @@
 <cfscript>
 	interests = EntityLoad("Interests", { refunded : true, cctype : "visa"});
 
-	writedump(interests);
 
 	writeoutput(ArrayLen(interests) & " records<br />");
 </cfscript>
 
 
 <h3>CFQuery</h3>
+
+<cfquery>
+	SELECT city, max(createDate) AS MaxCreateDate
+	FROM 	dbo.Customer
+	GROUP BY City
+	ORDER BY City
+</cfquery>
+
 
 <h1>Home</h1>
 
